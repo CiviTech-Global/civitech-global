@@ -1,0 +1,142 @@
+{
+  "brand": {
+    "name": "CiviTech Global",
+    "legalName": "Rayan Tamaddon Jahan Gostar",
+    "tagline": "Entwicklung kreativer, innovativer Softwarelösungen zur Unterstützung und Erleichterung der Zivilisation.",
+    "shortTagline": "Die Zukunft der Bürgertechnologie gestalten.",
+    "mission": "Unser Ziel ist es, der menschlichen Zivilisation zu helfen, jeden Tag tiefer in die Welt der Technologie einzutauchen, bis wir eine vollständig intellektuelle Spezies werden. Das tun wir durch Open-Source-Projekte und globale Community-Zusammenarbeit.",
+    "note": "Wir mögen auch Spiele."
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "teams": "Teams",
+    "roles": "Rollen",
+    "openCall": "Aufruf",
+    "gitWorkflow": "Git-Workflow",
+    "contact": "Kontakt",
+    "menu": "Menü",
+    "close": "Schließen"
+  },
+  "home": {
+    "hero": {
+      "headline": "CiviTech Global",
+      "subheadline": "Lernen Sie die Teams, Rollen und Karrierewege kennen, die unsere Mission vorantreiben.",
+      "ctaTeams": "Teams kennenlernen",
+      "ctaRoles": "Rollen erkunden",
+      "ctaOpenCall": "Mitmachen"
+    },
+    "stats": {
+      "teams": "Teams",
+      "roles": "Rollen",
+      "projects": "Projekte",
+      "countries": "Länder"
+    },
+    "mission": {
+      "title": "Unsere Mission",
+      "description": "Wir glauben, dass Technologie die menschliche Zivilisation voranbringen sollte. Durch Open-Source-Zusammenarbeit und community-getriebene Entwicklung bauen wir Software, die zählt, und schaffen gleichzeitig Wege für Einsteiger und Berufswechsler, um reale Erfahrungen zu sammeln."
+    },
+    "portals": {
+      "title": "Entdecken beginnen",
+      "teams": {
+        "title": "Teams kennenlernen",
+        "description": "Lesen Sie die Geschichte hinter jedem Team und erfahren Sie, wie wir zusammenarbeiten."
+      },
+      "roles": {
+        "title": "Rollen erkunden",
+        "description": "Durchsuchen Sie alle Rollen, filtern Sie nach Team und sehen Sie detaillierte Karrierewege."
+      },
+      "openCall": {
+        "title": "Aufruf",
+        "description": "Treten Sie uns als ehrenamtlicher Teilzeit-Mitarbeiter bei und bauen Sie weltklassige Software."
+      },
+      "gitWorkflow": {
+        "title": "Git-Workflow",
+        "description": "Lernen Sie, wie wir forken, branchen, committen, pushen und mergen."
+      }
+    },
+    "cta": {
+      "title": "Bereit mitzumachen?",
+      "description": "Egal, ob Sie gerade anfangen oder sich weiterentwickeln möchten – bei CiviTech Global ist ein Platz für Sie.",
+      "button": "Aufruf ansehen"
+    }
+  },
+  "teams": {
+    "title": "Unsere Teams",
+    "subtitle": "Fünf funktionsübergreifende Teams, die zusammenarbeiten, um ehrgeizige Ideen in zuverlässige Software umzusetzen.",
+    "rolesCount": "{{count}} Rollen",
+    "formerName": "Ehemals {{name}}"
+  },
+  "team": {
+    "roles": "Rollen in diesem Team",
+    "backToTeams": "Zurück zu den Teams"
+  },
+  "roles": {
+    "title": "Alle Rollen",
+    "subtitle": "Durchsuchen Sie alle Rollen bei CiviTech Global.",
+    "search": "Rollen suchen...",
+    "filterAll": "Alle Teams",
+    "noResults": "Keine Rollen entsprechen Ihrer Suche.",
+    "viewDetails": "Details ansehen"
+  },
+  "role": {
+    "responsibilities": "Hauptverantwortlichkeiten",
+    "skills": "Kernkompetenzen",
+    "tools": "Häufige Tools",
+    "roadmap": "Karriereweg",
+    "interactions": "Tägliche Interaktionen",
+    "bestPractices": "Best Practices",
+    "resources": "Lernressourcen",
+    "prev": "Vorherige Rolle",
+    "next": "Nächste Rolle",
+    "backToTeam": "Zurück zum Team"
+  },
+  "openCall": {
+    "important": "Wichtiger Hinweis",
+    "apply": "Jetzt bewerben",
+    "schedule": "Gespräch vereinbaren",
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail",
+      "linkedin": "LinkedIn / Lebenslauf URL",
+      "interest": "Wofür interessieren Sie sich am meisten?",
+      "message": "Erzählen Sie uns von sich",
+      "submit": "Bewerbung senden",
+      "success": "Danke! Wir prüfen Ihre Bewerbung und melden uns bald bei Ihnen.",
+      "note": "Diese Schaltfläche öffnet unser offizielles Bewerbungsformular."
+    }
+  },
+  "gitWorkflow": {
+    "cheatSheet": "Schnellübersicht"
+  },
+  "about": {
+    "title": "Über CiviTech Global",
+    "vision": "Unsere Vision",
+    "values": "Unsere Werte",
+    "valueItems": {
+      "innovation": "Innovation",
+      "transparency": "Transparenz",
+      "community": "Gemeinschaft",
+      "excellence": "Exzellenz"
+    }
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "description": "Haben Sie eine Frage oder möchten Sie zusammenarbeiten? Kontaktieren Sie uns über einen der folgenden Kanäle.",
+    "email": "E-Mail",
+    "github": "GitHub",
+    "location": "Standort",
+    "locationValue": "International / Remote"
+  },
+  "footer": {
+    "builtWith": "Mit ❤️ für unser wachsendes Team erstellt · {{year}}",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "common": {
+    "loading": "Laden...",
+    "readMore": "Weiterlesen",
+    "learnMore": "Mehr erfahren",
+    "copy": "Kopieren",
+    "copied": "Kopiert!"
+  }
+}

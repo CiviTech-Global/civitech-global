@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CiviTech Global</title>
+    <script>
+      // SPA redirect for GitHub Pages: preserve the route and redirect to the app base.
+      const base = '/civitech-global/'
+      const fullPath = window.location.pathname + window.location.search + window.location.hash
+      const redirectPath = fullPath.replace(base, '/') || '/'
+      window.location.replace(base + '?redirect=' + encodeURIComponent(redirectPath))
+    </script>
+  </head>
+  <body>
+    <p>Redirecting...</p>
+  </body>
+</html>

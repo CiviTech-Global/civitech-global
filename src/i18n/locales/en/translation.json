@@ -1,0 +1,142 @@
+{
+  "brand": {
+    "name": "CiviTech Global",
+    "legalName": "Rayan Tamaddon Jahan Gostar",
+    "tagline": "Developing creative, innovative software solutions to help and facilitate civilization.",
+    "shortTagline": "Building the future of civic technology.",
+    "mission": "Our goal is to help human civilization dive deeper into technology every day, until we become a fully intellectual species. We do this through open-source projects and global community collaboration.",
+    "note": "We like games as well."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "teams": "Teams",
+    "roles": "Roles",
+    "openCall": "Open Call",
+    "gitWorkflow": "Git Workflow",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "home": {
+    "hero": {
+      "headline": "CiviTech Global",
+      "subheadline": "Meet the teams, roles, and career paths that power our mission.",
+      "ctaTeams": "Meet the Teams",
+      "ctaRoles": "Explore Roles",
+      "ctaOpenCall": "Join Us"
+    },
+    "stats": {
+      "teams": "Teams",
+      "roles": "Roles",
+      "projects": "Projects",
+      "countries": "Countries"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "We believe technology should lift civilization forward. Through open-source collaboration and community-driven development, we build software that matters while creating pathways for juniors and career-changers to gain real-world experience."
+    },
+    "portals": {
+      "title": "Start Exploring",
+      "teams": {
+        "title": "Meet the Teams",
+        "description": "Read the story behind each team and discover how we work together."
+      },
+      "roles": {
+        "title": "Explore Roles",
+        "description": "Browse every role, filter by team, and see detailed career roadmaps."
+      },
+      "openCall": {
+        "title": "Open Call",
+        "description": "Join us as a part-time volunteer contributor and build world-class software."
+      },
+      "gitWorkflow": {
+        "title": "Git Workflow",
+        "description": "Learn how we fork, branch, commit, push, and merge across our projects."
+      }
+    },
+    "cta": {
+      "title": "Ready to contribute?",
+      "description": "Whether you are starting out or leveling up, there is a place for you at Civitech Global.",
+      "button": "View Open Call"
+    }
+  },
+  "teams": {
+    "title": "Our Teams",
+    "subtitle": "Five cross-functional teams working together to turn ambitious ideas into reliable software.",
+    "rolesCount": "{{count}} roles",
+    "formerName": "Formerly {{name}}"
+  },
+  "team": {
+    "roles": "Roles in this team",
+    "backToTeams": "Back to teams"
+  },
+  "roles": {
+    "title": "All Roles",
+    "subtitle": "Browse every role across Civitech Global.",
+    "search": "Search roles...",
+    "filterAll": "All teams",
+    "noResults": "No roles match your search.",
+    "viewDetails": "View details"
+  },
+  "role": {
+    "responsibilities": "Key Responsibilities",
+    "skills": "Core Skills",
+    "tools": "Common Tools",
+    "roadmap": "Career Roadmap",
+    "interactions": "Daily Interactions",
+    "bestPractices": "Best Practices",
+    "resources": "Learning Resources",
+    "prev": "Previous role",
+    "next": "Next role",
+    "backToTeam": "Back to team"
+  },
+  "openCall": {
+    "important": "Important Notice",
+    "apply": "Apply Now",
+    "schedule": "Schedule a Call",
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "linkedin": "LinkedIn / Resume URL",
+      "interest": "What are you most interested in?",
+      "message": "Tell us about yourself",
+      "submit": "Send Application",
+      "success": "Thank you! We will review your application and reach out soon.",
+      "note": "This button opens our official application form."
+    }
+  },
+  "gitWorkflow": {
+    "cheatSheet": "Quick Reference"
+  },
+  "about": {
+    "title": "About CiviTech Global",
+    "vision": "Our Vision",
+    "values": "Our Values",
+    "valueItems": {
+      "innovation": "Innovation",
+      "transparency": "Transparency",
+      "community": "Community",
+      "excellence": "Excellence"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Have a question or want to collaborate? Reach out through any of the channels below.",
+    "email": "Email",
+    "github": "GitHub",
+    "location": "Location",
+    "locationValue": "International / Remote"
+  },
+  "footer": {
+    "builtWith": "Built with ❤️ for our growing team · {{year}}",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "readMore": "Read more",
+    "learnMore": "Learn more",
+    "copy": "Copy",
+    "copied": "Copied!"
+  }
+}

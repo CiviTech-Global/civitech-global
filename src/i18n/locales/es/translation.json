@@ -1,0 +1,142 @@
+{
+  "brand": {
+    "name": "CiviTech Global",
+    "legalName": "Rayan Tamaddon Jahan Gostar",
+    "tagline": "Desarrollar soluciones de software creativas e innovadoras para ayudar y facilitar la civilización.",
+    "shortTagline": "Construyendo el futuro de la tecnología cívica.",
+    "mission": "Nuestro objetivo es ayudar a la civilización humana a sumergirse cada vez más en el mundo de la tecnología hasta convertirnos en una especie plenamente intelectual. Lo hacemos a través de proyectos de código abierto y la colaboración global de la comunidad.",
+    "note": "También nos gustan los juegos."
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "teams": "Equipos",
+    "roles": "Roles",
+    "openCall": "Convocatoria",
+    "gitWorkflow": "Flujo de Git",
+    "contact": "Contacto",
+    "menu": "Menú",
+    "close": "Cerrar"
+  },
+  "home": {
+    "hero": {
+      "headline": "CiviTech Global",
+      "subheadline": "Conoce los equipos, roles y trayectorias profesionales que impulsan nuestra misión.",
+      "ctaTeams": "Conoce los equipos",
+      "ctaRoles": "Explora roles",
+      "ctaOpenCall": "Únete a nosotros"
+    },
+    "stats": {
+      "teams": "Equipos",
+      "roles": "Roles",
+      "projects": "Proyectos",
+      "countries": "Países"
+    },
+    "mission": {
+      "title": "Nuestra misión",
+      "description": "Creemos que la tecnología debe hacer avanzar a la civilización humana. A través de la colaboración de código abierto y el desarrollo impulsado por la comunidad, construimos software que importa mientras creamos caminos para que principiantes y personas en transición profesional adquieran experiencia real."
+    },
+    "portals": {
+      "title": "Comienza a explorar",
+      "teams": {
+        "title": "Conoce los equipos",
+        "description": "Lee la historia detrás de cada equipo y descubre cómo trabajamos juntos."
+      },
+      "roles": {
+        "title": "Explora roles",
+        "description": "Explora todos los roles, filtra por equipo y consulta las hojas de ruta profesionales."
+      },
+      "openCall": {
+        "title": "Convocatoria",
+        "description": "Únete a nosotros como contribuidor voluntario de medio tiempo y construye software de clase mundial."
+      },
+      "gitWorkflow": {
+        "title": "Flujo de Git",
+        "description": "Aprende cómo hacemos fork, branch, commit, push y merge."
+      }
+    },
+    "cta": {
+      "title": "¿Listo para contribuir?",
+      "description": "Ya sea que estés comenzando o buscando crecer, hay un lugar para ti en CiviTech Global.",
+      "button": "Ver convocatoria"
+    }
+  },
+  "teams": {
+    "title": "Nuestros equipos",
+    "subtitle": "Cinco equipos multifuncionales que trabajan juntos para convertir ideas ambiciosas en software confiable.",
+    "rolesCount": "{{count}} roles",
+    "formerName": "Anteriormente {{name}}"
+  },
+  "team": {
+    "roles": "Roles en este equipo",
+    "backToTeams": "Volver a equipos"
+  },
+  "roles": {
+    "title": "Todos los roles",
+    "subtitle": "Explora todos los roles en CiviTech Global.",
+    "search": "Buscar roles...",
+    "filterAll": "Todos los equipos",
+    "noResults": "Ningún rol coincide con tu búsqueda.",
+    "viewDetails": "Ver detalles"
+  },
+  "role": {
+    "responsibilities": "Responsabilidades clave",
+    "skills": "Habilidades principales",
+    "tools": "Herramientas comunes",
+    "roadmap": "Hoja de ruta profesional",
+    "interactions": "Interacciones diarias",
+    "bestPractices": "Mejores prácticas",
+    "resources": "Recursos de aprendizaje",
+    "prev": "Rol anterior",
+    "next": "Rol siguiente",
+    "backToTeam": "Volver al equipo"
+  },
+  "openCall": {
+    "important": "Aviso importante",
+    "apply": "Aplicar ahora",
+    "schedule": "Agendar una llamada",
+    "form": {
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "linkedin": "LinkedIn / CV URL",
+      "interest": "¿Qué te interesa más?",
+      "message": "Cuéntanos sobre ti",
+      "submit": "Enviar aplicación",
+      "success": "¡Gracias! Revisaremos tu aplicación y nos pondremos en contacto pronto.",
+      "note": "Este botón abre nuestro formulario de aplicación oficial."
+    }
+  },
+  "gitWorkflow": {
+    "cheatSheet": "Referencia rápida"
+  },
+  "about": {
+    "title": "Acerca de CiviTech Global",
+    "vision": "Nuestra visión",
+    "values": "Nuestros valores",
+    "valueItems": {
+      "innovation": "Innovación",
+      "transparency": "Transparencia",
+      "community": "Comunidad",
+      "excellence": "Excelencia"
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "description": "¿Tienes una pregunta o quieres colaborar? Comunícate con nosotros a través de cualquiera de los canales a continuación.",
+    "email": "Correo electrónico",
+    "github": "GitHub",
+    "location": "Ubicación",
+    "locationValue": "Internacional / Remoto"
+  },
+  "footer": {
+    "builtWith": "Hecho con ❤️ para nuestro equipo en crecimiento · {{year}}",
+    "rights": "Todos los derechos reservados."
+  },
+  "common": {
+    "loading": "Cargando...",
+    "readMore": "Leer más",
+    "learnMore": "Saber más",
+    "copy": "Copiar",
+    "copied": "¡Copiado!"
+  }
+}
