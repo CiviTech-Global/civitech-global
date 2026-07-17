@@ -1,0 +1,2382 @@
+{
+  "teams": {
+    "product-strategy": {
+      "name": "Stratégie produit et expérience",
+      "formerName": "Idéation et stratégie",
+      "shortName": "Produit",
+      "story": [
+        "L’équipe Product Strategy & Experience est la boussole de Civitech Global. Nous commençons chaque conversation par les raisons pour lesquelles un client ressent un problème, pourquoi un marché évolue et pourquoi une solution particulière mérite d'être construite. Initialement connue sous le nom d'Idéation et stratégie, cette équipe est devenue le lieu où la curiosité rencontre la clarté : les chefs de produit façonnent la feuille de route, les spécialistes du marketing élaborent l'histoire, les concepteurs recherchent et expérimentent des prototypes, et les rédacteurs techniques transforment la complexité en conseils. Ensemble, nous traduisons les signaux flous du marché en une vision produit confiante, puis gardons cette vision à travers chaque compromis, sprint et lancement.",
+        "Vivre à l'intersection des clients, des entreprises et de l'ingénierie signifie que notre meilleur travail se déroule dans les écarts entre les disciplines. Nous effectuons des recherches sur les utilisateurs, débattons des priorités, rédigeons des exigences qui respectent la faisabilité et construisons des systèmes de conception évolutifs. Nous pensons que les bons produits ne sont pas simplement expédiés, ils sont compris, adoptés et aimés. Notre esprit est empreint d'une empathie implacable : nous écoutons avant de construire, mesurons après l'expédition et revenons toujours au résultat humain derrière la métrique.",
+        "Si vous nous rejoignez, attendez-vous à poser des questions difficiles, à changer d'avis lorsque les données changent et à parler couramment de nombreux dialectes de l'entreprise. Qu'il s'agisse d'esquisser un prototype, d'affiner un message de lancement ou de prioriser un carnet de commandes, vous aidez Civitech Global à transformer des idées ambitieuses en produits importants."
+      ]
+    },
+    "engineering": {
+      "name": "Ingénierie et architecture",
+      "formerName": "Développement et ingénierie",
+      "shortName": "Ingénierie",
+      "story": [
+        "L'équipe d'ingénierie et d'architecture est l'endroit où les ambitions de Civitech Global prennent forme en matière de code, de systèmes et de services fiables. Nous concevons les plates-formes sur lesquelles d'autres s'appuient, écrivons les applications que les clients utilisent, sécurisons et optimisons les données qui alimentent les décisions, et les intégrons directement avec les clients pour résoudre les problèmes réels dans les environnements de production. De l'architecture de haut niveau au perfectionnement du front-end, des performances des bases de données à l'assurance qualité, nous traitons l'ingénierie à la fois comme un métier et une responsabilité.",
+        "Notre culture repose sur l’honnêteté intellectuelle et la propriété partagée. Les architectes dessinent des systèmes qui peuvent évoluer ; les ingénieurs logiciels donnent vie à ces systèmes ; Les administrateurs de base de données assurent la rapidité et la sécurité de la couche de données ; Les ingénieurs QA protègent nos utilisateurs des régressions ; et les ingénieurs déployés à l'avant transportent notre plateforme dans les contextes des clients et ramènent la sagesse du terrain chez eux. Nous examinons le code avec respect, documentons les décisions avec les ADR, automatisons ce qui se répète et n'arrêtons jamais d'apprendre.",
+        "Rejoindre cette équipe signifie que vous résoudrez des problèmes difficiles avec des personnes soucieuses des détails. Vous débattrez des compromis, déboguerez à des heures impaires, célébrerez des abstractions propres et verrez votre travail se dérouler dans le monde réel. Nous ne construisons pas seulement des logiciels ; nous construisons la confiance, un engagement, un test, un déploiement fiable à la fois."
+      ]
+    },
+    "operations": {
+      "name": "Opérations de plateforme et réussite des clients",
+      "formerName": "Déploiement et opérations",
+      "shortName": "Opérations",
+      "story": [
+        "L’équipe Platform Operations & Customer Success est le cœur constant de chaque expérience Civitech Global. Pendant que d'autres équipes conçoivent et construisent, nous veillons à ce que tout fonctionne, reste sécurisé et apporte de la valeur aux personnes qui en dépendent. Les ingénieurs DevOps automatisent le chemin depuis la validation jusqu'à la production ; les ingénieurs en sécurité défendent nos systèmes et nos données ; et les responsables du support technique et de la réussite client transforment chaque ticket, intégration et renouvellement en une opportunité d'approfondir la confiance.",
+        "Nous sommes des pragmatiques avec un esprit de service. Nous surveillons, corrigeons, automatisons et répondons. Nous rédigeons des runbooks avant d'en avoir besoin, modélisons les menaces avant qu'elles ne se transforment en incidents et écoutons attentivement lorsqu'un client est bloqué. Notre travail est souvent invisible lorsqu'il se déroule bien, mais c'est exactement le but : la fiabilité et la tranquillité d'esprit sont les produits que nous livrons.",
+        "Si vous êtes attiré par le fait de tenir vos promesses, cette équipe est faite pour vous. Vous apprendrez à penser comme un opérateur et un défenseur, en équilibrant la santé des infrastructures avec les relations humaines, la rigueur de la sécurité avec la rapidité des affaires et les solutions à court terme avec la résilience à long terme."
+      ]
+    },
+    "revenue": {
+      "name": "Revenus, ventes et marketing",
+      "formerName": "Mise sur le marché, ventes et promotion",
+      "shortName": "Revenu",
+      "story": [
+        "L'équipe Revenus, Ventes et Marketing est la manière dont Civitech Global étend sa portée et gagne la confiance du marché. Nous sommes des conteurs, des bâtisseurs de relations et des architectes d’écosystèmes qui connectent les bonnes organisations avec les bonnes solutions au bon moment. Les responsables de comptes dirigent des cycles de vente réfléchis, les ingénieurs commerciaux traduisent la profondeur technique en confiance des acheteurs, les spécialistes du marketing et de la communication amplifient notre message sur tous les canaux et les responsables des partenariats construisent des réseaux qui multiplient notre impact.",
+        "Ce qui nous unit, c'est la conviction que les revenus sont un sous-produit d'une véritable valeur. Nous effectuons des recherches avant de proposer, écoutons avant de recommander et concevons des propositions de mise sur le marché qui respectent le parcours de l'acheteur. Nous travaillons en étroite collaboration avec les produits, l'ingénierie et la réussite des clients afin que chaque promesse faite sur le marché puisse être tenue en coulisses.",
+        "Rejoindre cette équipe signifie être à l'aise avec l'ambiguïté, dynamisé par la connexion humaine et discipliné dans le processus. Que vous concluiez un accord complexe, construisiez une campagne ou activiez un nouveau partenaire, vous aidez Civitech Global à transformer la confiance en notre mission en une croissance durable et évolutive."
+      ]
+    },
+    "leadership": {
+      "name": "Livraison et leadership technique",
+      "formerName": "Direction et gestion de projet",
+      "shortName": "Direction",
+      "story": [
+        "L'équipe de livraison et de leadership technique constitue le tissu conjonctif qui transforme la stratégie en résultats et les groupes d'individus talentueux en équipes hautement performantes. Les responsables de programmes techniques orchestrent des initiatives complexes concernant les produits, l'ingénierie et les opérations, en gérant les calendriers, les dépendances, les risques et la communication afin que les bonnes choses soient expédiées au bon moment. Les chefs d’équipe technique apportent une expertise approfondie en ingénierie et un leadership humain pour guider l’architecture, la qualité du code et la croissance de l’équipe.",
+        "Nous dirigeons par la clarté et l’influence plutôt que par la seule autorité. Nos journées sont un mélange de séances sur tableau blanc, de mises à jour de statut, de rencontres individuelles et d'examens minutieux des risques. Nous protégeons les équipes du bruit, débloqueons les dépendances interfonctionnelles et veillons à ce que chaque projet se termine par des leçons qui améliorent le suivant.",
+        "Si vous nous rejoignez, il vous sera demandé de voir dans les coins, de communiquer à travers les niveaux et de vous soucier autant des gens que du plan. Nous sommes ici pour nous assurer que Civitech Global ne se contente pas de rêver grand, mais réalise de grands résultats avec qualité, responsabilité et une équipe qui se renforce à chaque lancement."
+      ]
+    }
+  },
+  "roles": {
+    "product-manager": {
+      "title": "Chef de produit",
+      "shortTitle": "MP",
+      "summary": "Définit la vision, la stratégie et la feuille de route du produit tout en alignant les parties prenantes de l'ingénierie, de la conception et de l'entreprise pour offrir de la valeur aux utilisateurs et à l'entreprise.",
+      "story": "Les chefs de produit chez Civitech Global sont les traducteurs de possibilités. Au cours d'une semaine typique, vous pouvez interroger des clients, évaluer une opportunité de marché, rédiger des témoignages d'utilisateurs, débattre de la portée avec l'ingénierie et examiner les indicateurs de lancement avec la direction. Vous êtes propriétaire du « quoi » et du « pourquoi » derrière la feuille de route, en équilibrant les besoins des clients, les objectifs commerciaux et la réalité technique. Vos outils — Jira, Productboard, Figma, Amplitude — sont des extensions d'un esprit entraîné à donner la priorité aux résultats plutôt qu'aux extrants.\n\nA votre arrivée, vous commencez par apprendre : le produit, les utilisateurs, les métriques et les rythmes des équipes qui vous entourent. Au fil du temps, vous passez du soutien à l'hygiène du backlog à la possession d'un domaine de produits, à la définition d'une stratégie, au mentorat d'autres PM et, finalement, à la définition d'une vision à l'échelle de l'entreprise. Ici, la croissance n'est pas mesurée par le nombre de fonctionnalités que vous proposez, mais par la clarté avec laquelle vous voyez le problème et la confiance avec laquelle vous rallierez les autres autour d'une solution. Vous deviendrez un partenaire de confiance pour l’ingénierie, la conception, le marketing et les dirigeants – quelqu’un qui rend les compromis difficiles évidents avec le recul.",
+      "responsibilities": [
+        "Définir la vision, la stratégie et la feuille de route du produit",
+        "Prioriser les fonctionnalités et gérer le backlog",
+        "Réaliser des études de marché et concurrentielles",
+        "Rédiger les exigences, les user stories et les critères d'acceptation",
+        "Diriger l’exécution et les lancements interfonctionnels",
+        "Mesurer les métriques du produit et itérer en fonction des données"
+      ],
+      "skills": [
+        "Réflexion stratégique",
+        "Analyse des données",
+        "Gestion des parties prenantes",
+        "Agile/Scrum",
+        "Empathie de l'utilisateur",
+        "Feuille de route"
+      ],
+      "tools": [
+        "Jira",
+        "Tableau de produits",
+        "Figma",
+        "Amplitude",
+        "Confluence",
+        "Mou"
+      ],
+      "roadmap": [
+        {
+          "title": "Chef de produit associé",
+          "focus": "Apprenez les principes fondamentaux, prenez en charge le backlog et la recherche sur les utilisateurs",
+          "timeframe": "0ΓÇô1 ans"
+        },
+        {
+          "title": "Chef de produit",
+          "focus": "Posséder une zone de produits, définir une feuille de route et diriger les lancements",
+          "timeframe": "1ΓÇô3 ans"
+        },
+        {
+          "title": "Chef de produit senior",
+          "focus": "Piloter la stratégie, encadrer les PM et posséder des indicateurs clés",
+          "timeframe": "3ΓÇô6 ans"
+        },
+        {
+          "title": "Directeur de produit",
+          "focus": "Diriger le domaine de produits et s'aligner sur la stratégie de l'entreprise",
+          "timeframe": "6ΓÇô10 ans"
+        },
+        {
+          "title": "Vice-président/chef de produit",
+          "focus": "Définir la vision et le portefeuille de produits à l'échelle de l'entreprise",
+          "timeframe": "10+ ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Ingénierie",
+          "description": "Collaborez sur la faisabilité, la portée et la livraison."
+        },
+        {
+          "role": "Conception UX/UI",
+          "description": "Alignez-vous sur les besoins des utilisateurs et concevez des solutions."
+        },
+        {
+          "role": "Commercialisation de produits",
+          "description": "Coordonner les lancements, le positionnement et la mise sur le marché."
+        },
+        {
+          "role": "Leadership exécutif",
+          "description": "Présenter la feuille de route, les mesures et les paris stratégiques."
+        }
+      ],
+      "bestPractices": [
+        "Prioriser les résultats plutôt que les extrants",
+        "Valider les hypothèses grâce à la recherche sur les utilisateurs",
+        "Gardez les feuilles de route flexibles et transparentes",
+        "Communiquer clairement les décisions et les compromis",
+        "Mesurez le succès avec des KPI clairs"
+      ],
+      "resources": [
+        {
+          "title": "Inspiré",
+          "description": "Principes classiques de gestion de produits par Marty Cagan."
+        },
+        {
+          "title": "Décrypter l'entretien PM",
+          "description": "Entretien et guide de carrière pour les PM."
+        },
+        {
+          "title": "Blog Plan Produit",
+          "description": "Ressources de feuille de route et de stratégie produit."
+        },
+        {
+          "title": "Attention au produit",
+          "description": "Communauté et articles sur la gestion de produits."
+        },
+        {
+          "title": "La newsletter de Lenny",
+          "description": "Conseils produits et cadres de Lenny Rachitsky."
+        }
+      ]
+    },
+    "product-marketing-manager": {
+      "title": "Responsable marketing produit",
+      "shortTitle": "MGP",
+      "summary": "Relie les produits, le marketing et les ventes pour élaborer des stratégies de positionnement, de messagerie et de commercialisation qui stimulent l'adoption et les revenus.",
+      "story": "Les responsables du marketing produit sont la voix qui transforme la capacité du produit en conviction client. Vous étudiez le marché, élaborez le positionnement, élaborez des plans de lancement, créez les supports de vente sur lesquels s'appuient et analysez les performances des campagnes pour affiner la prochaine action de mise sur le marché. Vos journées mélangent narration et feuilles de calcul : un moment vous interviewez un client pour une étude de cas, le suivant vous optimisez la messagerie en fonction des données de conversion.\n\nAu début, vous soutenez les lancements, rédigez du contenu et découvrez le paysage concurrentiel. Au fur et à mesure de votre croissance, vous possédez le récit d'une gamme de produits, déterminez les prix et l'emballage, et créez des programmes d'habilitation qui évoluent. Les meilleurs PMM de Civitech Global connaissent si bien le client qu'ils peuvent anticiper les objections avant qu'elles ne surviennent et traduire les détails de la feuille de route en messages qui trouvent un écho. Vous vous situez entre le produit, les ventes, la génération de la demande et la réussite des clients, et votre super pouvoir permet à chacun de se sentir entendu tout en faisant avancer le marché.",
+      "responsibilities": [
+        "Développer le positionnement, les messages et les propositions de valeur",
+        "Planifier et exécuter les lancements de produits",
+        "Effectuer des études de marché, de concurrents et de clients",
+        "Créer du contenu et des formations d'aide à la vente",
+        "Collaborer sur les prix et l’emballage",
+        "Suivez les performances des campagnes et optimisez GTM"
+      ],
+      "skills": [
+        "Raconter des histoires",
+        "Étude de marché",
+        "Messagerie et positionnement",
+        "Collaboration interfonctionnelle",
+        "Analyse des données",
+        "Gestion de projet"
+      ],
+      "tools": [
+        "Force de vente",
+        "HubSpot",
+        "Marchéo",
+        "Gong",
+        "Notion",
+        "Google Analytics"
+      ],
+      "roadmap": [
+        {
+          "title": "Responsable marketing produit associé",
+          "focus": "Soutenir les lancements, la recherche et la création de contenu",
+          "timeframe": "0ΓÇô1 ans"
+        },
+        {
+          "title": "Responsable marketing produit",
+          "focus": "Lancements de produits propres et messages pour une gamme de produits",
+          "timeframe": "1ΓÇô3 ans"
+        },
+        {
+          "title": "Responsable marketing produit senior",
+          "focus": "Diriger la stratégie de portefeuille et générer un impact sur les revenus",
+          "timeframe": "3ΓÇô6 ans"
+        },
+        {
+          "title": "Directeur du marketing produit",
+          "focus": "Construire une équipe et aligner GTM sur les objectifs de l'entreprise",
+          "timeframe": "6ΓÇô10 ans"
+        },
+        {
+          "title": "Vice-président marketing/directeur marketing",
+          "focus": "Propre stratégie de marketing et de marque mondiale",
+          "timeframe": "10+ ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Gestion des produits",
+          "description": "Traduisez la feuille de route en messages destinés au marché."
+        },
+        {
+          "role": "Ventes",
+          "description": "Offrez aux commerciaux des garanties, des formations et des informations sur la concurrence."
+        },
+        {
+          "role": "Génération de demande",
+          "description": "Alignez les campagnes sur les objectifs de lancement."
+        },
+        {
+          "role": "Succès client",
+          "description": "Recueillez des commentaires et identifiez les opportunités d’expansion."
+        }
+      ],
+      "bestPractices": [
+        "Connaître profondément le client",
+        "Gardez la messagerie simple et différenciée",
+        "Alignez les lancements dans les équipes dès le début",
+        "Utiliser les données pour affiner GTM",
+        "Itérer en fonction des ventes et des commentaires des clients"
+      ],
+      "resources": [
+        {
+          "title": "Alliance de marketing produit",
+          "description": "Communauté PMM, cours et modèles."
+        },
+        {
+          "title": "Traverser le gouffre",
+          "description": "Cadre pour la mise sur le marché de produits technologiques."
+        },
+        {
+          "title": "Blog marketing HubSpot",
+          "description": "Ressources GTM et inbound marketing."
+        },
+        {
+          "title": "SaaStr",
+          "description": "Croissance B2B SaaS et perspectives marketing."
+        },
+        {
+          "title": "Institut pragmatique",
+          "description": "Formation en marketing et gestion de produits."
+        }
+      ]
+    },
+    "ux-ui-designer-user-researcher": {
+      "title": "Concepteur UX/UI et chercheur utilisateur",
+      "shortTitle": "UX",
+      "summary": "Recherche les besoins des utilisateurs, conçoit des interfaces intuitives et valide les solutions pour créer des expériences numériques transparentes.",
+      "story": "Les concepteurs UX/UI et les chercheurs utilisateurs sont les défenseurs de l’humain de l’autre côté de l’écran. Vous menez des entretiens, cartographiez des parcours, esquissez des wireframes, prototypez des interactions et validez des solutions via des tests d'utilisabilité. Votre objectif n'est pas seulement de donner une belle apparence aux choses, mais de les rendre inévitables, afin d'éliminer les frictions jusqu'à ce que le produit corresponde au modèle mental de l'utilisateur comme un outil familier.\n\nAu début de votre voyage, vous perfectionnez votre métier dans Figma, effectuez des recherches sous direction et contribuez à un système de conception en pleine croissance. Avec de l'expérience, vous dirigez la conception de bout en bout pour des domaines de produits entiers, encadrez les designers juniors et façonnez la culture de conception de l'entreprise. La collaboration est votre compagnon constant : vous travaillez avec des chefs de produit pour définir le bon problème, des ingénieurs pour comprendre la faisabilité, des rédacteurs techniques pour aligner le langage et des chercheurs pour fonder les décisions sur des preuves. Chez Civitech Global, le design n’est pas une dernière couche de peinture ; c'est une façon de penser qui imprègne chaque décision concernant un produit.",
+      "responsibilities": [
+        "Mener des entretiens avec les utilisateurs, des enquêtes et des tests d'utilisabilité",
+        "Créez des personnages, des cartes de parcours et des wireframes",
+        "Concevoir des interfaces et des prototypes haute fidélité",
+        "Construire et maintenir des systèmes de conception",
+        "Collaborer avec le produit et l'ingénierie",
+        "Validez les conceptions avec les commentaires itératifs des utilisateurs"
+      ],
+      "skills": [
+        "Recherche d'utilisateurs",
+        "Wireframing et prototypage",
+        "Conception visuelle",
+        "Conception d'interactions",
+        "Architecture de l'information",
+        "Empathie et communication"
+      ],
+      "tools": [
+        "Figma",
+        "Esquisser",
+        "Labyrinthe",
+        "Hotjar",
+        "Adobe XD",
+        "Test utilisateur"
+      ],
+      "roadmap": [
+        {
+          "title": "Concepteur UX/UI junior",
+          "focus": "Apprenez les outils de conception, soutenez la recherche et les wireframes",
+          "timeframe": "0ΓÇô1 ans"
+        },
+        {
+          "title": "Concepteur UX/UI",
+          "focus": "Posséder des tâches de conception et exécuter des tests d'utilisabilité",
+          "timeframe": "1ΓÇô3 ans"
+        },
+        {
+          "title": "Concepteur de produits senior",
+          "focus": "Diriger la conception de produits de bout en bout et encadrer les juniors",
+          "timeframe": "3ΓÇô6 ans"
+        },
+        {
+          "title": "Responsable UX / Conception",
+          "focus": "Piloter la stratégie de conception et les processus d’équipe",
+          "timeframe": "6ΓÇô10 ans"
+        },
+        {
+          "title": "Directeur / Vice-président du design",
+          "focus": "Façonner la culture du design et la vision UX à l’échelle de l’organisation",
+          "timeframe": "10+ ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Chef de produit",
+          "description": "Alignez les problèmes des utilisateurs avec les priorités des produits."
+        },
+        {
+          "role": "Ingénierie",
+          "description": "Confiez les conceptions et collaborez sur la faisabilité."
+        },
+        {
+          "role": "Rédacteur technique",
+          "description": "Assurez-vous que la copie de l’interface utilisateur et les documents sont clairs."
+        },
+        {
+          "role": "Chercheur utilisateur",
+          "description": "Synthétisez les informations qui éclairent les décisions de conception."
+        }
+      ],
+      "bestPractices": [
+        "Commencez par la recherche d'utilisateurs, pas par les pixels",
+        "Conception pour l’accessibilité et l’inclusion",
+        "Maintenir la cohérence grâce aux systèmes de conception",
+        "Prototyper tôt et tester souvent",
+        "Documenter clairement la justification de la conception"
+      ],
+      "resources": [
+        {
+          "title": "Groupe Nielsen Norman",
+          "description": "Recherche UX et conseils d’utilisabilité."
+        },
+        {
+          "title": "Meilleures pratiques Figma",
+          "description": "Tutoriels et guides officiels Figma."
+        },
+        {
+          "title": "Ne me fais pas réfléchir",
+          "description": "Livre d'utilisabilité classique de Steve Krug."
+        },
+        {
+          "title": "Lois de l'UX",
+          "description": "Principes pour concevoir de meilleures interfaces."
+        },
+        {
+          "title": "Institut de conception UX",
+          "description": "Cours et certifications UX professionnelles."
+        }
+      ]
+    },
+    "technical-writer": {
+      "title": "Rédacteur technique",
+      "shortTitle": "TW",
+      "summary": "Crée une documentation claire et précise et un contenu d'activation qui aide les utilisateurs à adopter et à réussir avec le produit.",
+      "story": "Les rédacteurs techniques de Civitech Global transforment la complexité en clarté. Vous rédigez et maintenez la documentation sur les produits et les API, créez des guides d'intégration, rédigez des FAQ et assurez-vous que chaque instruction a été testée dans un environnement réel. En coulisses, vous organisez l'architecture de l'information, gérez les flux de travail docs-as-code et utilisez l'analyse pour comprendre ce dont les lecteurs ont réellement besoin.\n\nLorsque vous commencez, vous apprenez le produit en profondeur et vous vous entraînez à écrire pour la tâche du lecteur plutôt que pour les fonctionnalités du produit. Au fur et à mesure de votre progression, vous possédez des zones de documentation, définissez des normes de style et de qualité et encadrez d'autres personnes dans ce métier. Vos partenaires les plus proches sont les ingénieurs, les chefs de produit, les concepteurs UX et le support client, car les meilleurs documents naissent des lacunes qu'ils constatent chaque jour. Votre travail n'est peut-être pas toujours visible, mais lorsqu'un client réussit sans appeler le support, ou qu'un développeur livre une intégration en quelques heures au lieu de quelques jours, votre impact est indubitable.",
+      "responsibilities": [
+        "Rédiger et maintenir la documentation des produits et des API",
+        "Créez des guides d'intégration, des didacticiels et des FAQ",
+        "Collaborer avec les ingénieurs et les PM sur les documents de version",
+        "Valider la précision grâce à des tests pratiques",
+        "Maintenir l’architecture de l’information et la navigation",
+        "Utiliser l'analyse pour améliorer la qualité du contenu"
+      ],
+      "skills": [
+        "Rédaction technique",
+        "Architecture de l'information",
+        "Flux de travail Docs-as-Code",
+        "Connaissance des API",
+        "Édition et contrôle qualité",
+        "Entretiens avec les parties prenantes"
+      ],
+      "tools": [
+        "GitHub",
+        "Réduction",
+        "Docusaure",
+        "Confluence",
+        "Facteur",
+        "Vallée"
+      ],
+      "roadmap": [
+        {
+          "title": "Rédacteur technique junior",
+          "focus": "Rédigez des documents clairs et apprenez les bases du produit",
+          "timeframe": "0ΓÇô1 ans"
+        },
+        {
+          "title": "Rédacteur technique",
+          "focus": "Zones de documentation propres et notes de version",
+          "timeframe": "1ΓÇô3 ans"
+        },
+        {
+          "title": "Rédacteur technique principal",
+          "focus": "Stratégie du document principal, IA et normes de qualité",
+          "timeframe": "3ΓÇô6 ans"
+        },
+        {
+          "title": "Responsable de la documentation / Directeur",
+          "focus": "Gouverner les systèmes de documents en tant que code et encadrer les rédacteurs",
+          "timeframe": "6ΓÇô10 ans"
+        },
+        {
+          "title": "Directeur / Responsable de la documentation",
+          "focus": "Propre stratégie et opérations de documentation mondiales",
+          "timeframe": "10+ ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Ingénierie",
+          "description": "Vérifiez l’exactitude technique et validez les exemples."
+        },
+        {
+          "role": "Chef de produit",
+          "description": "Alignez les documents avec la feuille de route et les versions de fonctionnalités."
+        },
+        {
+          "role": "Concepteur UX/UI",
+          "description": "Assurez une terminologie cohérente et une copie intégrée au produit."
+        },
+        {
+          "role": "Service client",
+          "description": "Transformez les thèmes des tickets en documents utiles."
+        }
+      ],
+      "bestPractices": [
+        "Écrivez pour la tâche du lecteur, pas pour le produit",
+        "Gardez les documents précis, concis et numérisables",
+        "Utiliser docs-as-code pour le contrôle de version",
+        "Valider les instructions dans des environnements réels",
+        "Mesurer et améliorer en fonction des commentaires des utilisateurs"
+      ],
+      "resources": [
+        {
+          "title": "Écrivez les documents",
+          "description": "Communauté mondiale de rédaction technique."
+        },
+        {
+          "title": "Documents en tant que code",
+          "description": "Approche de gestion des documents avec les outils de développement."
+        },
+        {
+          "title": "Je préférerais écrire",
+          "description": "Blog de rédaction technique par Tom Johnson."
+        },
+        {
+          "title": "Guide de style de la documentation du développeur Google",
+          "description": "Référence d’écriture et de style largement utilisée."
+        },
+        {
+          "title": "Docusaure",
+          "description": "Générateur de sites de documentation open source."
+        }
+      ]
+    },
+    "system-architect-solutions-architect": {
+      "title": "Architecte système / Architecte de solutions",
+      "shortTitle": "Architecte",
+      "summary": "Conçoit des structures système et des solutions technologiques de haut niveau qui alignent les objectifs commerciaux avec une ingénierie évolutive et fiable.",
+      "story": "Les architectes système et les architectes de solutions conçoivent l'échafaudage sur lequel reposent les produits de Civitech Global. Vous traduisez les exigences de l'entreprise en choix technologiques, définissez l'architecture globale et la pile technologique et vous assurez que chaque solution est évolutive, sécurisée et performante. Vos journées consistent à rédiger des modèles d'intégration sur tableau blanc, à évaluer les plates-formes cloud, à examiner les conceptions avec les équipes d'ingénierie et à documenter les décisions dans les ADR afin que les futures équipes comprennent le « pourquoi ».\n\nAu début de ce parcours, vous absorbez les modèles de conception, participez à la documentation des solutions et apprenez à communiquer des idées techniques aux parties prenantes non techniques. Au fil du temps, vous possédez des solutions de bout en bout pour les produits, dirigez des architectures d'entreprise complexes et, éventuellement, définissez des normes à l'échelle de l'organisation. Vous êtes un pont entre l'ambition du produit et la réalité de l'ingénierie, en travaillant en étroite collaboration avec les responsables de l'ingénierie, les ingénieurs logiciels, DevOps et SRE. Les meilleurs architectes ne se contentent pas de dessiner des cases et des flèches ; ils créent une clarté qui permet aux équipes d'avancer rapidement sans casser les choses.",
+      "responsibilities": [
+        "Définir l'architecture globale du système et la pile technologique",
+        "Créer des conceptions de solutions pour les besoins de l'entreprise",
+        "Garantir l’évolutivité, la sécurité et les performances",
+        "Évaluer et recommander des plateformes et des outils",
+        "Aligner l'architecture sur les objectifs commerciaux et produits",
+        "Guider les équipes d’ingénierie sur les normes de mise en œuvre"
+      ],
+      "skills": [
+        "Conception du système",
+        "Plateformes cloud",
+        "Microservices",
+        "Conception d'API",
+        "Principes de sécurité",
+        "Communication avec les parties prenantes"
+      ],
+      "tools": [
+        "AWS/Azure/GCP",
+        "Kubernetes",
+        "Terraforme",
+        "ArchiMate",
+        "Draw.io",
+        "Confluence"
+      ],
+      "roadmap": [
+        {
+          "title": "Architecte junior",
+          "focus": "Apprendre les modèles de conception et aider à la documentation des solutions",
+          "timeframe": "0ΓÇô2 ans"
+        },
+        {
+          "title": "Architecte de solutions",
+          "focus": "Concevoir des solutions de bout en bout pour des produits ou des projets spécifiques",
+          "timeframe": "3ΓÇô5 ans"
+        },
+        {
+          "title": "Architecte de solutions senior",
+          "focus": "Diriger des architectures d’entreprise complexes et encadrer des équipes",
+          "timeframe": "5ΓÇô8 ans"
+        },
+        {
+          "title": "Architecte principal",
+          "focus": "Définir les normes architecturales et la stratégie à l’échelle de l’organisation",
+          "timeframe": "8ΓÇô12 ans"
+        },
+        {
+          "title": "Architecte en chef",
+          "focus": "Piloter la vision technologique dans l’ensemble de l’entreprise",
+          "timeframe": "12+ ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Chef de produit",
+          "description": "Traduire les exigences métiers en architecture technique"
+        },
+        {
+          "role": "Responsable de l'ingénierie",
+          "description": "Assurer la faisabilité et l’alignement avec les délais de livraison"
+        },
+        {
+          "role": "Ingénieurs logiciels",
+          "description": "Fournir des conseils sur la mise en œuvre et les normes de codage"
+        },
+        {
+          "role": "DevOps/SRE",
+          "description": "Aligner l'infrastructure avec les objectifs de fiabilité du système"
+        }
+      ],
+      "bestPractices": [
+        "Conception pour l’évolutivité et l’échec",
+        "Documenter les décisions avec les ADR",
+        "Préférez les technologies éprouvées aux technologies à la mode",
+        "Impliquer la sécurité dès le début de la conception",
+        "Valider les conceptions avec des prototypes et des critiques"
+      ],
+      "resources": [
+        {
+          "title": "Cadre AWS bien architecturé",
+          "description": "Conseils pour concevoir des systèmes sécurisés, résilients et efficaces sur AWS"
+        },
+        {
+          "title": "Guide d'architecture logicielle de Martin Fowler",
+          "description": "Articles et modèles sur l'architecture d'entreprise"
+        },
+        {
+          "title": "Conception d'applications gourmandes en données",
+          "description": "Livre sur la création de systèmes fiables, évolutifs et maintenables"
+        },
+        {
+          "title": "L'application à douze facteurs",
+          "description": "Méthodologie de création d'applications SaaS modernes"
+        },
+        {
+          "title": "Norme TOGAF",
+          "description": "Cadre et méthodologie de l'architecture d'entreprise"
+        }
+      ]
+    },
+    "software-engineer-frontend-backend-full-stack": {
+      "title": "Ingénieur logiciel (Frontend/Backend/Full-Stack)",
+      "shortTitle": "Ingénieur logiciel",
+      "summary": "Crée, teste et maintient des applications logicielles côté client, côté serveur ou les deux.",
+      "story": "Les ingénieurs logiciels sont les bâtisseurs au centre de Civitech Global. Que vous soyez spécialisé dans les interfaces frontales, les services back-end ou la propriété full-stack, votre travail consiste à transformer les idées en code fiable et maintenable. Vous implémentez des fonctionnalités, concevez et utilisez des API, examinez le travail de vos pairs, déboguez les problèmes de production et contribuez aux tests automatisés et aux pipelines CI/CD. Vos outils couvrent les IDE, GitHub, React, Node.js, Python, Docker et bien plus encore.\n\nEn tant qu'ingénieur junior, vous apprenez la base de code, expédiez des fonctionnalités avec un mentorat et absorbez les commentaires. Au fur et à mesure de votre croissance, vous possédez des éléments plus importants du système, dirigez la conception technique, encadrez les autres et influencez la stratégie d'ingénierie. Vous collaborez quotidiennement avec les chefs de produit, les concepteurs, l'assurance qualité et DevOps — , car l'expédition de logiciels de qualité est un sport d'équipe. Chez Civitech Global, nous pensons qu'un code propre, des tests approfondis et des évaluations respectueuses ne constituent pas une surcharge bureaucratique ; c'est ainsi que nous prenons soin des personnes qui entretiendront ce que nous construisons longtemps après notre départ.",
+      "responsibilities": [
+        "Écrivez du code propre, maintenable et efficace",
+        "Créer des interfaces utilisateur ou une logique côté serveur",
+        "Implémenter et utiliser des API",
+        "Collaborer à la conception technique et aux révisions de code",
+        "Déboguer et résoudre les problèmes de production",
+        "Contribuer aux tests automatisés et aux pipelines CI/CD"
+      ],
+      "skills": [
+        "Langages de programmation",
+        "Structures de données et algorithmes",
+        "Développement d'API",
+        "Contrôle des versions",
+        "Test et débogage",
+        "Bases de la conception du système"
+      ],
+      "tools": [
+        "VSCode/IntelliJ",
+        "Git/GitHub",
+        "Réagir/Angulaire/Vue",
+        "Node.js/Python/Java",
+        "Docker",
+        "Blague/Facteur"
+      ],
+      "roadmap": [
+        {
+          "title": "Ingénieur Junior",
+          "focus": "Écrivez des fonctionnalités avec du mentorat et apprenez les conventions de base de code",
+          "timeframe": "0ΓÇô2 ans"
+        },
+        {
+          "title": "Ingénieur de niveau intermédiaire",
+          "focus": "Posséder des fonctionnalités de manière indépendante et améliorer la qualité du code",
+          "timeframe": "2ΓÇô4 ans"
+        },
+        {
+          "title": "Ingénieur principal",
+          "focus": "Diriger la conception technique et encadrer les ingénieurs juniors",
+          "timeframe": "4ΓÇô7 ans"
+        },
+        {
+          "title": "Ingénieur du personnel",
+          "focus": "Piloter les initiatives techniques et l'architecture inter-équipes",
+          "timeframe": "7ΓÇô10 ans"
+        },
+        {
+          "title": "Ingénieur principal",
+          "focus": "Définir la direction technique et influencer la stratégie d’ingénierie",
+          "timeframe": "10+ ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Chef de produit",
+          "description": "Clarifier les exigences et estimer l’effort de livraison"
+        },
+        {
+          "role": "Concepteur UX/UI",
+          "description": "Mettre en œuvre des conceptions et des interactions orientées utilisateur"
+        },
+        {
+          "role": "Ingénieur assurance qualité",
+          "description": "Résoudre les bugs et améliorer la couverture des tests"
+        },
+        {
+          "role": "Ingénieur DevOps",
+          "description": "Déployer, surveiller et dépanner les applications"
+        }
+      ],
+      "bestPractices": [
+        "Écrire des tests avec le code de production",
+        "Gardez les fonctions et les composants petits et concentrés",
+        "Révisez le code de manière approfondie et respectueuse",
+        "API de documents et logique complexe",
+        "Automatisez les tâches et les déploiements répétitifs"
+      ],
+      "resources": [
+        {
+          "title": "Documents Web MDN",
+          "description": "Documentation complète pour les technologies Web"
+        },
+        {
+          "title": "gratuitCodeCamp",
+          "description": "Programme de codage gratuit pour frontend, backend et full-stack"
+        },
+        {
+          "title": "LeetCode",
+          "description": "Plateforme de pratique pour les défis de codage et d'algorithme"
+        },
+        {
+          "title": "Code propre par Robert C. Martin",
+          "description": "Livre sur l'écriture de code lisible et maintenable"
+        },
+        {
+          "title": "Le projet Odin",
+          "description": "Programme de développement Web full-stack"
+        }
+      ]
+    },
+    "database-administrator-dba": {
+      "title": "Administrateur de base de données (DBA)",
+      "shortTitle": "Administrateur de base de données",
+      "summary": "Gère, sécurise et optimise les bases de données pour garantir la disponibilité, l’intégrité et les performances des données.",
+      "story": "Les administrateurs de bases de données sont les gardiens discrets des données de Civitech Global. Vous installez, configurez et mettez à niveau les systèmes de bases de données ; surveiller les performances ; régler les requêtes lentes ; et concevez des stratégies de sauvegarde, de restauration et de reprise après sinistre qui permettent à l'entreprise de dormir la nuit. La sécurité, les contrôles d’accès et l’automatisation ne sont pas une réflexion secondaire – ils sont au cœur de votre pratique.\n\nAu début, vous participez aux sauvegardes, à la surveillance et au dépannage de base tout en apprenant les personnalités de PostgreSQL, MySQL, MongoDB ou les services gérés dans le cloud. Au fur et à mesure de votre progression, vous gérez des bases de données de production, optimisez des requêtes complexes, dirigez des migrations à haute disponibilité et définissez des normes de données pour l'organisation. Vous travaillez main dans la main avec des ingénieurs logiciels sur la conception de schémas, des ingénieurs de données sur les pipelines, la sécurité sur la conformité et DevOps sur la fiabilité. Votre succès se mesure en millisecondes de latence, en restaurations réussies et en la certitude que l'actif le plus précieux de l'entreprise, ses données, est en sécurité.",
+      "responsibilities": [
+        "Installer, configurer et mettre à niveau les systèmes de bases de données",
+        "Surveiller les performances et ajuster les requêtes",
+        "Mettre en œuvre des plans de sauvegarde, de restauration et de reprise après sinistre",
+        "Assurer la sécurité des données et les contrôles d’accès",
+        "Automatisez les tâches de maintenance et de surveillance",
+        "Soutenir les développeurs dans la conception de schémas et de requêtes"
+      ],
+      "skills": [
+        "Bases de données SQL et relationnelles",
+        "Optimisation des requêtes",
+        "Sauvegarde et récupération",
+        "Sécurité de la base de données",
+        "Systèmes NoSQL",
+        "Optimisation des performances"
+      ],
+      "tools": [
+        "PostgreSQL/MySQL/SQL Serveur",
+        "MongoDB",
+        "AWS RDS/Aurora",
+        "pgAdmin/DBeaver",
+        "Terraforme",
+        "Datadog/Prométhée"
+      ],
+      "roadmap": [
+        {
+          "title": "DBA junior",
+          "focus": "Aider aux sauvegardes, à la surveillance et au dépannage de base",
+          "timeframe": "0ΓÇô2 ans"
+        },
+        {
+          "title": "Administrateur de base de données",
+          "focus": "Gérer les bases de données de production et optimiser les requêtes",
+          "timeframe": "2ΓÇô5 ans"
+        },
+        {
+          "title": "DBA senior",
+          "focus": "Concevoir des stratégies HA/DR et diriger les migrations",
+          "timeframe": "5ΓÇô8 ans"
+        },
+        {
+          "title": "Administrateur de base de données principal",
+          "focus": "Définir les normes des bases de données et gouverner les pratiques en matière de données",
+          "timeframe": "8ΓÇô12 ans"
+        },
+        {
+          "title": "Architecte principal de bases de données",
+          "focus": "Façonner la stratégie de données d’entreprise et l’architecture de la plateforme",
+          "timeframe": "12+ ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Ingénieurs logiciels",
+          "description": "Conseiller sur la conception de schémas, l'indexation et les performances des requêtes"
+        },
+        {
+          "role": "Ingénieurs de données",
+          "description": "Garantir des pipelines de données et des bases de stockage fiables"
+        },
+        {
+          "role": "Équipe de sécurité",
+          "description": "Mettre en œuvre des contrôles d’accès et des mesures de conformité"
+        },
+        {
+          "role": "DevOps/SRE",
+          "description": "Maintenir la disponibilité de la base de données et la réponse aux incidents"
+        }
+      ],
+      "bestPractices": [
+        "Automatisez les sauvegardes et testez régulièrement les restaurations",
+        "Indexez judicieusement et surveillez les performances des requêtes",
+        "Appliquer des contrôles d'accès de moindre privilège",
+        "Gardez les versions de base de données corrigées et sécurisées",
+        "Documenter les schémas, les procédures et les runbooks"
+      ],
+      "resources": [
+        {
+          "title": "Documentation PostgreSQL",
+          "description": "Guide de référence et d'administration officiel de PostgreSQL"
+        },
+        {
+          "title": "Utilisez l'index, Luke",
+          "description": "Guide gratuit sur l'indexation et les performances SQL"
+        },
+        {
+          "title": "Documentation SQL Server",
+          "description": "Documents d'administration et de développement de Microsoft SQL Server"
+        },
+        {
+          "title": "Base de données de bases de données",
+          "description": "Référence pour comparer les systèmes de gestion de bases de données"
+        },
+        {
+          "title": "Université MongoDB",
+          "description": "Cours gratuits sur l'administration et le développement de MongoDB"
+        }
+      ]
+    },
+    "quality-assurance-qa-engineer-tester": {
+      "title": "Ingénieur / Testeur Assurance Qualité (AQ)",
+      "shortTitle": "Ingénieur assurance qualité",
+      "summary": "Garantit que le logiciel répond aux exigences de qualité en concevant, exécutant et automatisant les tests tout au long du cycle de vie de développement.",
+      "story": "Les ingénieurs et testeurs QA sont la conscience qualité de Civitech Global. Vous concevez des plans de test, écrivez des tests automatisés et manuels, recherchez les régressions et assurez-vous que chaque version répond aux besoins réels des utilisateurs. Votre travail commence tôt : vous examinez les exigences, clarifiez les critères d'acceptation et intégrez les tests dans les pipelines CI/CD afin que les problèmes soient détectés avant qu'ils n'atteignent les clients.\n\nAu début, vous maîtrisez les principes fondamentaux des tests, rédigez des rapports de bogues clairs et apprenez les cadres d'automatisation qui alimentent nos suites de régression. Avec de l'expérience, vous concevez une architecture de test, encadrez vos coéquipiers, élargissez la couverture aux API et aux bases de données et dirigez la priorisation basée sur les risques. Vous travaillez en étroite collaboration avec les ingénieurs, les chefs de produit, les DevOps et les concepteurs, car la qualité n'est pas une porte finale mais une responsabilité partagée. Lorsqu’une version se déroule sans problème, c’est souvent parce qu’un ingénieur QA a posé la bonne question au bon moment.",
+      "responsibilities": [
+        "Créer et maintenir des plans de test, des cas de test et des données de test",
+        "Exécuter des tests fonctionnels, de régression et exploratoires manuels et automatisés",
+        "Identifier, documenter et suivre les bogues jusqu'à leur résolution",
+        "Collaborer avec les développeurs et les chefs de produits sur les exigences",
+        "Intégrez des tests automatisés dans les pipelines CI/CD",
+        "Analyser les résultats des tests et rendre compte des indicateurs de qualité"
+      ],
+      "skills": [
+        "Techniques de tests manuels et automatisés",
+        "Conception des tests et rapport de bogues clair",
+        "Programmation/script avec Python, JavaScript ou Java",
+        "Tests d'API et de bases de données, y compris SQL",
+        "CI/CD et contrôle de version avec Git",
+        "Pensée analytique et souci du détail"
+      ],
+      "tools": [
+        "Dramaturge / Sélénium / Cyprès",
+        "Jira/TestRail/Zéphyr",
+        "Facteur / REPOS Assuré",
+        "Actions GitHub/Jenkins",
+        "Outils de développement du navigateur",
+        "Clients SQL / Docker"
+      ],
+      "roadmap": [
+        {
+          "title": "Ingénieur QA Junior / Testeur",
+          "focus": "Apprenez les principes fondamentaux des tests, les tests manuels et les rapports de bogues.",
+          "timeframe": "0-1 an"
+        },
+        {
+          "title": "Ingénieur assurance qualité",
+          "focus": "Créez des cadres d'automatisation, des tests d'API et l'intégration de CI.",
+          "timeframe": "1-3 ans"
+        },
+        {
+          "title": "Ingénieur qualité senior",
+          "focus": "Concevez une architecture de test, encadrez d’autres personnes et élargissez la couverture.",
+          "timeframe": "3-5 ans"
+        },
+        {
+          "title": "Responsable AQ / SDET",
+          "focus": "Définir la stratégie de test, créer des cadres et promouvoir une culture de qualité.",
+          "timeframe": "5-7 ans"
+        },
+        {
+          "title": "Responsable QA / Directeur Qualité",
+          "focus": "Diriger l'organisation de la qualité, la gestion des risques et les mesures.",
+          "timeframe": "7+ ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Ingénieurs logiciels",
+          "description": "Associez-vous à la reproduction des bogues, clarifiez les exigences et examinez les correctifs."
+        },
+        {
+          "role": "Chefs de produits",
+          "description": "Affinez les critères d’acceptation et alignez la couverture des tests sur les résultats des utilisateurs."
+        },
+        {
+          "role": "DevOps/SRE",
+          "description": "Intégrez les tests dans les pipelines et surveillez les signaux de qualité de production."
+        },
+        {
+          "role": "UX / Concepteurs",
+          "description": "Validez la convivialité, l’accessibilité et la cohérence de la conception."
+        }
+      ],
+      "bestPractices": [
+        "Tests Shift-Gauche et examen précoce des exigences",
+        "Rédigez des rapports de bogues clairs et reproductibles avec des étapes et des preuves",
+        "Automatisez les suites de régression et maintenez les tests maintenables",
+        "Utiliser la priorisation basée sur les risques pour la couverture des tests",
+        "Maintenir la traçabilité entre les exigences, les tests et les défauts"
+      ],
+      "resources": [
+        {
+          "title": "Guide de l'ingénieur assurance qualité Coursera",
+          "description": "Aperçu des tâches, des compétences et des perspectives de carrière en matière d'assurance qualité."
+        },
+        {
+          "title": "Niveau Fondation ISTQB",
+          "description": "Organisme de certification des tests de logiciels reconnu par l'industrie."
+        },
+        {
+          "title": "Ministère des Tests",
+          "description": "Communauté, cours et ressources pour les testeurs de logiciels."
+        },
+        {
+          "title": "Documentation du dramaturge",
+          "description": "Bibliothèque d'automatisation multi-navigateurs moderne et guide de test."
+        },
+        {
+          "title": "Centre d'apprentissage du facteur",
+          "description": "Tutoriels de test d'API et bonnes pratiques."
+        }
+      ]
+    },
+    "forward-deployed-engineer-fde": {
+      "title": "Ingénieur déployé à l'avant (FDE)",
+      "shortTitle": "FDE",
+      "summary": "S'intègre aux clients pour créer des solutions de qualité production en utilisant la plate-forme de l'entreprise tout en transmettant des informations sur le terrain aux équipes de produits.",
+      "story": "Les ingénieurs déployés à l'avant sont les bottes de Civitech Global sur le terrain et les yeux sur le terrain. Vous vous intégrez aux clients, comprenez leurs flux de travail et créez des solutions de qualité production à l'aide de notre plateforme. Votre travail couvre les pipelines de données, les intégrations et les applications IA/LLM, et vous intégrez constamment ce que vous apprenez au produit et à l'ingénierie afin que la plate-forme devienne plus intelligente pour tout le monde.\n\nLorsque vous démarrez, vous découvrez les composants internes de la plateforme et soutenez les implémentations client. Bientôt, vous serez propriétaire de cas d'utilisation de bout en bout, puis dirigerez des déploiements complexes, encadrerez d'autres personnes et façonnerez des modèles réutilisables qui accéléreront chaque engagement futur. Vous collaborez avec les clients, les chefs de produits, les ingénieurs logiciels, les ventes et la réussite des clients. Les meilleurs FDE décomposent les problèmes ambigus en jalons définis, fournissent du code fonctionnel plutôt que des démos et documentent des playbooks qui transforment la percée d'un client en avantage pour tous.",
+      "responsibilities": [
+        "Intégrez les clients pour comprendre les flux de travail et les exigences",
+        "Concevoir et expédier le code de production dans les environnements clients",
+        "Traduire les problèmes métier en solutions de plateforme évolutives",
+        "Créez des pipelines de données, des intégrations et des applications IA/LLM",
+        "Apporter des composants et des apprentissages réutilisables au produit principal",
+        "Collaborer avec les ventes et la réussite des clients pour étendre l'adoption"
+      ],
+      "skills": [
+        "Ingénierie full-stack et données avec Python, SQL et JavaScript/TypeScript",
+        "Communication et conseil orientés client",
+        "Prototypage rapide et décomposition des problèmes",
+        "Cloud et conteneurisation avec AWS/Azure/GCP, Docker et Kubernetes",
+        "Intégration AI/LLM, RAG et orchestration",
+        "Pensée systémique et appropriation de bout en bout"
+      ],
+      "tools": [
+        "Palantir Foundry / AIP ou plateformes équivalentes",
+        "Python/PySpark/SQL",
+        "Docker/Kubernetes/Terraform",
+        "Git / GitHub / CI-CD pipelines",
+        "API LLM / bases de données vectorielles / frameworks d'orchestration",
+        "Consoles cloud pour AWS, Azure et GCP"
+      ],
+      "roadmap": [
+        {
+          "title": "Ingénieur junior déployé à l'avant",
+          "focus": "Apprenez les principes internes de la plateforme et soutenez les implémentations clients.",
+          "timeframe": "0-1 an"
+        },
+        {
+          "title": "Ingénieur déployé à l'avant",
+          "focus": "Posséder les cas d'utilisation des clients de bout en bout et créer des pipelines et des applications.",
+          "timeframe": "1-3 ans"
+        },
+        {
+          "title": "Ingénieur principal déployé à l'avant",
+          "focus": "Dirigez des déploiements complexes, encadrez les autres et façonnez des modèles réutilisables.",
+          "timeframe": "3-5 ans"
+        },
+        {
+          "title": "Personnel / Directeur FDE",
+          "focus": "Pilotez la stratégie, l’architecture et les playbooks inter-clients de la plateforme.",
+          "timeframe": "5-7 ans"
+        },
+        {
+          "title": "Responsable / Directeur FDE",
+          "focus": "Faites évoluer l’organisation FDE, définissez des normes de livraison et influencez la feuille de route.",
+          "timeframe": "7+ ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Clients / Utilisateurs finaux",
+          "description": "Colocalisez ou intégrez pour découvrir les problèmes et valider les solutions."
+        },
+        {
+          "role": "Chefs de produits",
+          "description": "Canalisez les commentaires sur le terrain vers les priorités de la feuille de route et les exigences en matière de fonctionnalités."
+        },
+        {
+          "role": "Ingénieurs logiciels / équipes plateforme",
+          "description": "Contribuez au code, aux modules réutilisables et aux modèles d'intégration."
+        },
+        {
+          "role": "Ventes / Succès client",
+          "description": "Prise en charge de l’expansion, de la preuve de valeur et d’une intégration réussie."
+        }
+      ],
+      "bestPractices": [
+        "Expédier du code de production fonctionnel, pas seulement des démos",
+        "Documenter les modèles réutilisables et les playbooks des clients",
+        "Maintenir des boucles de rétroaction étroites entre le terrain et le produit",
+        "Décomposer les problèmes ambigus en jalons délimités",
+        "Prioriser les résultats clients et la stabilité opérationnelle"
+      ],
+      "resources": [
+        {
+          "title": "Carrières Palantir - FDE",
+          "description": "Les rôles et la culture d'ingénierie déployés à l'avant de Palantir."
+        },
+        {
+          "title": "Guide FDE de l'équipe JADA",
+          "description": "Répartition des responsabilités et parcours professionnel du FDE."
+        },
+        {
+          "title": "Guide de l'ingénieur IA déployé vers l'avant",
+          "description": "Plongez en profondeur dans les compétences et les implémentations FDE de l’ère de l’IA."
+        },
+        {
+          "title": "Documentation de la fonderie Palantir",
+          "description": "Documents officiels pour la plateforme de données Foundry."
+        },
+        {
+          "title": "Exemple de poste d'ingénieur déployé vers l'avant",
+          "description": "Exemple de description de poste et d'exigences FDE."
+        }
+      ]
+    },
+    "devops-engineer": {
+      "title": "Ingénieur DevOps",
+      "shortTitle": "DevOps",
+      "summary": "Relie le développement et les opérations pour automatiser, déployer et maintenir des systèmes logiciels fiables.",
+      "story": "Les ingénieurs DevOps construisent les autoroutes invisibles qui transportent les logiciels de Civitech Global depuis l'ordinateur portable d'un développeur vers un environnement de production fiable. Vous concevez des pipelines CI/CD, gérez l’infrastructure cloud en tant que code, surveillez l’état du système, automatisez les déploiements et les restaurations, et réagissez aux incidents lorsque les choses tournent mal. Votre objectif est de faire en sorte que la livraison sûre et rapide soit une routine.\n\nDès le début, vous apprenez Linux, les scripts, l'orchestration de conteneurs et les principes fondamentaux du cloud. Au fur et à mesure de votre croissance, vous concevez l'infrastructure, mettez en œuvre des déploiements immuables et optimisez l'observabilité sur l'ensemble de la pile. Vous travaillez quotidiennement avec des ingénieurs logiciels, des ingénieurs en sécurité, un support technique et des chefs de produits, pour traduire les calendriers de publication en capacité d'infrastructure et transformer les leçons de production en une meilleure automatisation. Nous pensons que chaque étape manuelle est susceptible d’être automatisée et que chaque incident est une chance de rendre le système plus résilient.",
+      "responsibilities": [
+        "Créer et maintenir des pipelines CI/CD",
+        "Gérer l'infrastructure cloud et l'IaC",
+        "Surveiller la santé et la fiabilité du système",
+        "Automatisez les déploiements et les procédures de restauration",
+        "Collaborer avec les développeurs sur les workflows de publication",
+        "Résoudre les incidents de production"
+      ],
+      "skills": [
+        "Administration système Linux",
+        "Scripts (Python/Bash)",
+        "Orchestration de conteneurs",
+        "Expertise en plateforme cloud",
+        "L'infrastructure en tant que code",
+        "Surveillance et observabilité"
+      ],
+      "tools": [
+        "Docker",
+        "Kubernetes",
+        "Terraforme",
+        "Actions Jenkins/GitHub",
+        "AWS/Azure/GCP",
+        "Prométhée/Grafana"
+      ],
+      "roadmap": [
+        {
+          "title": "Ingénieur DevOps junior",
+          "focus": "Apprenez les bases de Linux, Git, des scripts et du cloud",
+          "timeframe": "0-2 ans"
+        },
+        {
+          "title": "Ingénieur DevOps",
+          "focus": "Créez des pipelines CI/CD et gérez les charges de travail conteneurisées",
+          "timeframe": "2-4 ans"
+        },
+        {
+          "title": "Ingénieur DevOps Sénior",
+          "focus": "Architectez l’infrastructure, mettez en œuvre l’IaC et optimisez la fiabilité",
+          "timeframe": "4-6 ans"
+        },
+        {
+          "title": "Responsable DevOps / Architecte",
+          "focus": "Concevoir la stratégie de la plateforme et encadrer les équipes",
+          "timeframe": "6-9 ans"
+        },
+        {
+          "title": "Directeur Principal DevOps / Plateforme",
+          "focus": "Favoriser l’efficacité de l’ingénierie et la stratégie cloud",
+          "timeframe": "9+ ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Ingénieurs logiciels",
+          "description": "Permettez des déploiements rapides et fiables et résolvez les problèmes d’environnement"
+        },
+        {
+          "role": "Ingénieurs de sécurité",
+          "description": "Intégrer l'analyse de sécurité et la conformité dans les pipelines"
+        },
+        {
+          "role": "Assistance technique",
+          "description": "Fournir des runbooks et un contexte d'infrastructure pour les incidents"
+        },
+        {
+          "role": "Chefs de produits",
+          "description": "Alignez les calendriers de publication avec la capacité de l’infrastructure"
+        }
+      ],
+      "bestPractices": [
+        "Automatisez les tâches répétitives",
+        "Gérer l'infrastructure en tant que code pour tous les environnements",
+        "Surveillez tout avec des alertes exploitables",
+        "Pratiquez les déploiements immuables",
+        "Documenter les runbooks et les post-mortems"
+      ],
+      "resources": [
+        {
+          "title": "Feuille de route DevOps",
+          "description": "Guide interactif sur les compétences DevOps et la progression de carrière"
+        },
+        {
+          "title": "Le projet Phénix",
+          "description": "Livre classique sur les principes DevOps et le Lean IT"
+        },
+        {
+          "title": "Blog AWS DevOps",
+          "description": "Meilleures pratiques et mises à jour pour les praticiens AWS DevOps"
+        },
+        {
+          "title": "Documentation Kubernetes",
+          "description": "Guides officiels pour l'orchestration de conteneurs"
+        },
+        {
+          "title": "Tutoriels Terraform",
+          "description": "Leçons pratiques pour l'infrastructure en tant que code"
+        }
+      ]
+    },
+    "security-engineer": {
+      "title": "Ingénieur de sécurité",
+      "shortTitle": "Sécurité",
+      "summary": "Protège les systèmes, les réseaux et les données en concevant et en exploitant des contrôles de sécurité défensifs.",
+      "story": "Les ingénieurs de sécurité sont les protecteurs de la confiance chez Civitech Global. Vous concevez une architecture de sécurité, exécutez des évaluations de vulnérabilité, surveillez les menaces, gérez les identités et les accès, examinez le code et l'infrastructure pour détecter les risques et assurez-vous que nous respectons les normes de conformité. Votre état d'esprit est à la fois proactif et réactif : vous modélisez les menaces avant qu'elles ne se matérialisent et réagissez calmement lorsque des alertes se déclenchent.\n\nEn commençant en tant que junior, vous développez des compétences en matière de réseaux, de systèmes d'exploitation, de cryptographie et de codage sécurisé. Au fil du temps, vous exploitez les outils SIEM, dirigez la réponse aux incidents, concevez les contrôles d'entreprise et définissez la stratégie de sécurité de l'entreprise. Vous travaillez en partenariat avec DevOps pour intégrer la sécurité dans les pipelines, avec des ingénieurs pour guider le développement sécurisé, avec le service informatique pour les correctifs et la segmentation, et avec les services juridiques et de conformité pour les exigences réglementaires. Chez Civitech Global, la sécurité n'est pas un département qui dit non ; c'est une capacité qui aide l'entreprise à avancer en toute confiance.",
+      "responsibilities": [
+        "Concevoir et maintenir une architecture de sécurité",
+        "Effectuer des évaluations de vulnérabilités et des correctifs",
+        "Surveiller les menaces et les incidents",
+        "Mettre en œuvre la gestion des identités et des accès",
+        "Effectuer des examens de sécurité du code et de l'infrastructure",
+        "Assurer le respect des normes de sécurité"
+      ],
+      "skills": [
+        "Sécurité du réseau",
+        "Modélisation des menaces",
+        "Réponse aux incidents",
+        "Fondamentaux de la cryptographie",
+        "L'évaluation des risques",
+        "Pratiques de codage sécurisées"
+      ],
+      "tools": [
+        "SIEM (Splunk/Élastique)",
+        "Pare-feu et IDS/IPS",
+        "Scanners de vulnérabilités",
+        "Coffre HashiCorp",
+        "Outils de tests d'intrusion",
+        "Services de sécurité cloud"
+      ],
+      "roadmap": [
+        {
+          "title": "Ingénieur Junior en Sécurité",
+          "focus": "Apprenez les principes fondamentaux des réseaux, des systèmes d’exploitation et de la sécurité",
+          "timeframe": "0-2 ans"
+        },
+        {
+          "title": "Ingénieur de sécurité",
+          "focus": "Utiliser SIEM, effectuer des analyses de vulnérabilité et répondre aux alertes",
+          "timeframe": "2-4 ans"
+        },
+        {
+          "title": "Ingénieur Sénior en Sécurité",
+          "focus": "Concevoir des contrôles de sécurité et diriger la réponse aux incidents",
+          "timeframe": "4-6 ans"
+        },
+        {
+          "title": "Architecte de sécurité / responsable",
+          "focus": "Concevoir des programmes de sécurité d'entreprise et encadrer des analystes",
+          "timeframe": "6-9 ans"
+        },
+        {
+          "title": "Ingénieur Principal Sécurité / RSSI",
+          "focus": "Définir la stratégie de sécurité et la gouvernance",
+          "timeframe": "9+ ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Ingénieurs DevOps",
+          "description": "Intégrez des contrôles de sécurité dans l’infrastructure CI/CD et cloud"
+        },
+        {
+          "role": "Ingénieurs logiciels",
+          "description": "Réviser le code et guider les pratiques de développement sécurisées"
+        },
+        {
+          "role": "Opérations informatiques",
+          "description": "Coordonner les correctifs, la journalisation et la segmentation du réseau"
+        },
+        {
+          "role": "Juridique/Conformité",
+          "description": "S'assurer que les contrôles répondent aux exigences réglementaires"
+        }
+      ],
+      "bestPractices": [
+        "Changement de sécurité vers la gauche dans le développement",
+        "Appliquer le moindre privilège",
+        "Exécutez régulièrement des analyses de correctifs et de vulnérabilités",
+        "Centraliser la journalisation et la surveillance",
+        "Documenter les playbooks de réponse aux incidents"
+      ],
+      "resources": [
+        {
+          "title": "Feuille de route pour la cybersécurité",
+          "description": "Feuille de route interactive pour les carrières en cybersécurité"
+        },
+        {
+          "title": "Cadre de cybersécurité du NIST",
+          "description": "Conseils pour gérer les risques de cybersécurité"
+        },
+        {
+          "title": "Top 10 de l'OWASP",
+          "description": "Document de sensibilisation standard pour la sécurité des applications Web"
+        },
+        {
+          "title": "Feuille de route de l’ingénieur en sécurité cloud",
+          "description": "Guide étape par étape de l'ingénierie de la sécurité du cloud"
+        },
+        {
+          "title": "Salle de lecture SANS",
+          "description": "Livres blancs sur les outils, menaces et pratiques de sécurité"
+        }
+      ]
+    },
+    "technical-support-customer-success-manager": {
+      "title": "Support technique / Responsable du succès client",
+      "shortTitle": "Soutien et réussite",
+      "summary": "Aide les clients à adopter le produit, à résoudre les problèmes et à maximiser la valeur à long terme.",
+      "story": "Les responsables du support technique et de la réussite client sont le visage humain de Civitech Global après la vente. Vous résolvez les tickets d’assistance, guidez l’intégration, surveillez la santé des clients, pilotez les renouvellements et transformez les commentaires en améliorations du produit. Votre travail se situe à l’intersection de l’empathie et du dépannage – chaque conversation est une chance de réduire le taux de désabonnement et d’approfondir une relation.\n\nAu début de votre carrière, vous maîtrisez parfaitement le produit, gérez les tickets avec patience et établissez des relations avec un client à la fois. Au fur et à mesure de votre croissance, vous gérez des portefeuilles de comptes, dirigez des stratégies de renouvellement et d'adoption et créez des programmes de réussite évolutifs. Vous collaborez constamment avec les chefs de produit, l'ingénierie, les ventes et le marketing, en partageant ce que disent les clients, en signalant les bugs, en identifiant les opportunités de vente incitative et en collectant des témoignages. Les meilleures personnes de cette équipe font en sorte que les clients se sentent comme des partenaires et non comme des comptes, et prouvent que le succès est quelque chose que vous obtenez, pas seulement quelque chose que vous espérez.",
+      "responsibilities": [
+        "Résoudre les tickets de support technique",
+        "Guider les clients tout au long de l’intégration et de l’adoption",
+        "Surveiller la santé et la satisfaction des clients",
+        "Stimulez les renouvellements et réduisez le taux de désabonnement",
+        "Créer une base de connaissances et du contenu de formation",
+        "Défendre les besoins des clients auprès des produits et de l'ingénierie"
+      ],
+      "skills": [
+        "Écoute active et empathie",
+        "Dépannage technique",
+        "Communication et négociation",
+        "CRM et maîtrise des données",
+        "Gestion de projet",
+        "Expertise produit"
+      ],
+      "tools": [
+        "Zendesk/Freshdesk",
+        "Salesforce/HubSpot CRM",
+        "Gainsight / ChurnZéro",
+        "Slack / Microsoft Équipes",
+        "Confluence / Notion",
+        "Tableaux de bord d'analyse"
+      ],
+      "roadmap": [
+        {
+          "title": "Spécialiste du support / Associé CSM",
+          "focus": "Apprenez le produit, gérez les tickets et établissez une relation client",
+          "timeframe": "0-2 ans"
+        },
+        {
+          "title": "Ingénieur Support Technique / CSM",
+          "focus": "Résoudre des problèmes complexes et gérer un portefeuille de comptes",
+          "timeframe": "2-4 ans"
+        },
+        {
+          "title": "CSM senior/responsable du support",
+          "focus": "Diriger les renouvellements, les stratégies d’adoption et la gestion des escalades",
+          "timeframe": "4-6 ans"
+        },
+        {
+          "title": "Responsable de la réussite client / Responsable du support",
+          "focus": "Construire des programmes de réussite et gérer une équipe",
+          "timeframe": "6-9 ans"
+        },
+        {
+          "title": "Directeur de la réussite client / VP Support",
+          "focus": "Propre stratégie de cycle de vie client et rétention des revenus",
+          "timeframe": "9+ ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Chefs de produits",
+          "description": "Partagez les commentaires des clients pour éclairer les priorités de la feuille de route"
+        },
+        {
+          "role": "Ingénierie / DevOps",
+          "description": "Escalader les bugs et coordonner les résolutions techniques"
+        },
+        {
+          "role": "Ventes",
+          "description": "Identifiez les opportunités de vente incitative et alignez-vous sur les plans de compte"
+        },
+        {
+          "role": "Commercialisation",
+          "description": "Fournir des témoignages et générer des études de cas"
+        }
+      ],
+      "bestPractices": [
+        "Répondez rapidement et définissez des attentes claires",
+        "Solutions documentaires pour le libre-service",
+        "Surveiller de manière proactive la santé des clients",
+        "Personnalisez l'intégration en fonction des objectifs du client",
+        "Fermer la boucle de feedback avec les équipes produit"
+      ],
+      "resources": [
+        {
+          "title": "Guide de gestion de la réussite client",
+          "description": "Guide complet sur le rôle et la carrière du CSM"
+        },
+        {
+          "title": "Service entrant de l'Académie HubSpot",
+          "description": "Cours gratuit sur les principes fondamentaux du service client moderne"
+        },
+        {
+          "title": "Ressources organisées sur la réussite des clients",
+          "description": "Liste d'articles, de livres et d'outils CS organisée par la communauté"
+        },
+        {
+          "title": "Blog ChurnZéro",
+          "description": "Articles sur la stratégie CS, les compétences et les indicateurs"
+        },
+        {
+          "title": "Meilleures pratiques de SuccessCOACHING",
+          "description": "Pratiques d'habilitation pour les équipes CS hautement performantes"
+        }
+      ]
+    },
+    "sales-manager-account-executive": {
+      "title": "Directeur des ventes / Chargé de comptes",
+      "shortTitle": "Chargé de comptes",
+      "summary": "Gère le cycle de vente complet, du prospect qualifié au contrat fermé, agissant en tant que conseiller de confiance qui aligne la solution de l'entreprise sur les résultats commerciaux et les objectifs de revenus de l'acheteur.",
+      "story": "Les directeurs commerciaux et les chargés de comptes sont les conseillers de confiance qui relient les solutions de Civitech Global aux résultats des clients. Vous organisez des appels de découverte, qualifiez des opportunités, cartographiez les parties prenantes, faites des présentations personnalisées, négociez des contrats et concluez de nouvelles affaires. Vos journées sont un mélange de recherche, de conversation et de gestion disciplinée du pipeline dans le CRM.\n\nVous pouvez commencer en tant que prospection et qualification d'apprentissage SDR, puis passer par des transactions plus petites vers des cycles d'entreprise complexes. À chaque étape, vous affinez la découverte, l’articulation des valeurs, la gestion des objections et la prévision. Vous travaillez en partenariat avec des ingénieurs commerciaux, des spécialistes du marketing, des responsables des partenariats, de la réussite client et des opérations de revenus. Les best-sellers de Civitech Global disqualifient les contrats médiocres et les accords multithreads précoces, et se concentrent sur les résultats commerciaux plutôt que sur les caractéristiques du produit. Votre succès se mesure en termes de revenus, mais se gagne grâce à la confiance.",
+      "responsibilities": [
+        "Exécutez des appels de découverte pour découvrir les problèmes, les contraintes et les objectifs commerciaux des acheteurs.",
+        "Qualifier les leads entrants et les transferts SDR à l'aide de frameworks tels que BANT ou MEDDPICC",
+        "Cartographier les parties prenantes et identifier les décideurs, les champions et les bloqueurs",
+        "Proposez des présentations de produits sur mesure et des analyses de rentabilisation axées sur le retour sur investissement",
+        "Gérez les étapes des transactions, les délais et les plans d'action mutuels dans le CRM",
+        "Négocier les conditions avec les parties prenantes en matière d'approvisionnement, juridiques et financières",
+        "Clôturer de nouvelles affaires et identifier les opportunités d'expansion ou de vente incitative précoces",
+        "Maintenir l’hygiène CRM pour des prévisions précises et une visibilité du pipeline",
+        "Collaborer avec l'ingénierie des ventes, le marketing et le service clientèle sur la stratégie commerciale et les transferts",
+        "Atteindre ou dépasser les quotas et les objectifs de revenus assignés de manière cohérente"
+      ],
+      "skills": [
+        "Découverte et questionnement consultatif",
+        "Articulation de la valeur et narration du retour sur investissement",
+        "Gestion et prévision des pipelines",
+        "Traitement des objections et négociation",
+        "Cartographie des parties prenantes et multithreading",
+        "Cadres de qualification commerciale (BANT, MEDDICC, SPIN)",
+        "Présence exécutive et écoute active",
+        "Résilience, adaptabilité et coachabilité",
+        "Discipline CRM et processus de vente",
+        "Gestion du temps et priorisation"
+      ],
+      "tools": [
+        "Salesforce ou HubSpot CRM pour la gestion des opportunités et du pipeline",
+        "LinkedIn Sales Navigator pour la recherche de comptes et la cartographie des parties prenantes",
+        "Outreach, Salesloft ou Apollo pour l'engagement et le séquençage des ventes",
+        "Gong ou Chorus pour l'enregistrement des appels, le coaching et l'intelligence des conversations",
+        "Clari ou InsightSquared pour les prévisions et l'analyse des pipelines",
+        "Outils PandaDoc, DocuSign ou CPQ pour les propositions et les contrats",
+        "Slack ou Microsoft Teams pour la collaboration interne en matière de transactions",
+        "Notion ou Confluence pour les cartes de combat et le contenu d'activation",
+        "Zoom ou Google Meet pour la vente virtuelle",
+        "Outils de calendrier/planification comme Calendly ou Chili Piper"
+      ],
+      "roadmap": [
+        {
+          "level": "Stagiaire / SDR",
+          "title": "Représentant du développement des ventes (SDR) / BDR",
+          "focus": "Apprenez la prospection, les bases de la qualification, l'hygiène CRM et la gestion des objections",
+          "timeframe": "0-2 ans"
+        },
+        {
+          "level": "AE junior",
+          "title": "Chargé de comptes associé / Représentant des ventes internes",
+          "focus": "Concluez des transactions plus petites, maîtrisez la découverte et développez une discipline de pipeline",
+          "timeframe": "1-3 ans"
+        },
+        {
+          "level": "AE milieu de gamme",
+          "title": "Chargé de comptes",
+          "focus": "Posséder des ventes complètes pour les comptes du marché intermédiaire et atteindre systématiquement le quota",
+          "timeframe": "2-5 ans"
+        },
+        {
+          "level": "AE senior",
+          "title": "Chargé de comptes senior / Entreprise AE",
+          "focus": "Gérer des transactions complexes et multipartites sur des territoires plus vastes",
+          "timeframe": "4-7 ans"
+        },
+        {
+          "level": "Responsable des ventes / Responsable",
+          "title": "Chef d'équipe / Responsable des ventes",
+          "focus": "Coacher une équipe, inspecter les transactions et favoriser l'atteinte des quotas de l'équipe",
+          "timeframe": "6-9 ans"
+        },
+        {
+          "level": "Directeur / Vice-président",
+          "title": "Directeur des ventes / Vice-président des ventes",
+          "focus": "Élaborer une stratégie de vente, optimiser les processus et faire évoluer l'organisation des revenus",
+          "timeframe": "8-15 ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Ingénieur Commercial",
+          "description": "Partenaires sur les démonstrations techniques, les preuves de concept et les objections de sécurité/techniques"
+        },
+        {
+          "role": "Spécialiste du marketing et des communications",
+          "description": "Fournit des commentaires sur la qualité des prospects et demande des garanties ciblées, des études de cas et des campagnes."
+        },
+        {
+          "role": "Responsable Canaux et Partenariats",
+          "description": "Coordonne les transactions conclues par des partenaires, les motions de co-vente et les comptes gérés par les partenaires"
+        },
+        {
+          "role": "Responsable de la réussite client",
+          "description": "Assure un transfert fluide et partage le contexte du compte pour l’intégration et l’expansion"
+        },
+        {
+          "role": "Opérations de revenus",
+          "description": "S'aligne sur l'hygiène des pipelines, les prévisions, la planification du territoire et l'optimisation des outils"
+        }
+      ],
+      "bestPractices": [
+        "Effectuez toujours des recherches préalables à l'appel et participez à chaque réunion avec un ordre du jour clair",
+        "Qualifiez-vous tôt et disqualifiez les prospects mal adaptés pour protéger la qualité du pipeline",
+        "Transactions multithread en établissant des relations avec plusieurs parties prenantes",
+        "Diriger avec la valeur et les résultats commerciaux plutôt que les fonctionnalités du produit",
+        "Gardez les données CRM propres et mises à jour pour prendre en charge des prévisions précises",
+        "Suivre une méthodologie de vente structurée (MEDDPICC, SPIN, Challenger) de manière cohérente",
+        "Sollicitez les commentaires de vos pairs et de vos managers et affinez continuellement votre argumentaire."
+      ],
+      "resources": [
+        {
+          "title": "SPIN Vendre par Neil Rackham",
+          "description": "Un classique basé sur la recherche sur les questions consultatives pour les ventes B2B complexes."
+        },
+        {
+          "title": "La vente Challenger par Matthew Dixon et Brent Adamson",
+          "description": "Cadre le plus vendu pour l'enseignement, l'adaptation et la prise de contrôle des conversations avec les clients."
+        },
+        {
+          "title": "Certification des ventes entrantes de la HubSpot Academy",
+          "description": "Cours gratuit et mondialement reconnu sur la méthodologie des ventes entrantes et l'engagement moderne des acheteurs."
+        },
+        {
+          "title": "Académie MEDDIC",
+          "description": "Source officielle de formation et de certifications de qualification commerciale MEDDPICC."
+        },
+        {
+          "title": "Communauté de hackers commerciaux",
+          "description": "Grande communauté de vente B2B gratuite avec des articles, des modèles, des podcasts et des discussions entre pairs."
+        },
+        {
+          "title": "RévGenius",
+          "description": "Communauté mondiale de revenus avec plus de 60 000 membres axés sur GTM, les ventes et RevOps."
+        },
+        {
+          "title": "Point de départ de Salesforce",
+          "description": "Plateforme d'apprentissage interactive gratuite pour les compétences CRM, Sales Cloud et opérations commerciales."
+        }
+      ]
+    },
+    "sales-engineer": {
+      "title": "Ingénieur Commercial",
+      "shortTitle": "Ingénieur Commercial",
+      "summary": "Fait le pont entre l'expertise approfondie des produits et la vente consultative en exécutant des démonstrations, en concevant des solutions et en résolvant les objections techniques afin de réduire les risques liés aux transactions complexes pour les comités d'achat.",
+      "story": "Les ingénieurs commerciaux apportent une profondeur technique et une empathie avec les acheteurs au processus de revenus. Vous effectuez des découvertes techniques, concevez des démonstrations et des preuves de concept sur mesure, répondez aux appels d'offres et répondez aux questions difficiles des parties prenantes de l'informatique, de la sécurité et de l'ingénierie. Vous élaborez également des analyses de rentabilisation et des modèles de retour sur investissement qui rendent tangible la valeur de Civitech Global.\n\nAu début, vous développez vos connaissances sur les produits et vos compétences en communication dans le support technique ou en tant que SE associé. Au fil du temps, vous maîtrisez le cycle de vente technique, gérez les évaluations d'entreprise, encadrez les SE juniors et définissez les meilleures pratiques. Vous travaillez aux côtés des responsables de comptes, des chefs de produits, de l'ingénierie, de la réussite client, du marketing et des partenariats. Votre capacité à traduire des fonctionnalités complexes en valeur commerciale claire et à maintenir la fiabilité des environnements de démonstration fait souvent la différence entre une transaction qui échoue et une transaction qui se conclut.",
+      "responsibilities": [
+        "Effectuer une découverte technique pour comprendre les exigences du client, l'architecture et les besoins d'intégration",
+        "Créer et livrer des démonstrations de produits et des preuves de concept (PoC) sur mesure",
+        "Répondre aux appels d'offres/RFI avec un contenu technique précis et orienté solution",
+        "Répondre aux questions techniques approfondies des parties prenantes de l'informatique, de la sécurité et de l'ingénierie",
+        "Créez des analyses de rentabilisation, des modèles de retour sur investissement et des diagrammes d'architecture qui s'alignent sur les résultats des clients.",
+        "Collaborer avec les responsables de comptes sur la stratégie de transaction, la gestion des objections et les plans de clôture",
+        "Recueillir les commentaires des prospects et communiquer les lacunes ou les exigences du produit au produit/à l'ingénierie",
+        "Prise en charge des examens de sécurité, des questionnaires de conformité et des évaluations de la confidentialité des données",
+        "Assurer l'intégration technique après-vente et le transfert aux équipes de réussite client ou de mise en œuvre",
+        "Restez au courant de la feuille de route des produits, des offres des concurrents et des tendances technologiques émergentes"
+      ],
+      "skills": [
+        "Connaissance approfondie des produits et du domaine technique",
+        "Architecture de la solution et conception de l'intégration",
+        "Compréhension de l'API, du SDK, du webhook et du flux de données",
+        "Démonstration et tableau blanc",
+        "Découverte consultative et cartographie des exigences",
+        "Analyse de rentabilisation et construction du retour sur investissement",
+        "Communication exécutive et technique",
+        "Traitement des objections et atténuation des risques",
+        "Gestion de projet et multitâche",
+        "Flux de travail de démonstration et d'activation assistés par l'IA"
+      ],
+      "tools": [
+        "CRM (Salesforce, HubSpot) pour le suivi des opportunités et la journalisation des activités",
+        "Plateformes de démonstration (Demodesk, Walnut, Reprise) pour des visites interactives de produits",
+        "Outils de présentation (PowerPoint, Google Slides, Prezi) et tableau blanc (Miro, Lucidchart)",
+        "Outils de collaboration (Slack, Microsoft Teams, Zoom)",
+        "Consoles cloud (AWS, Azure, GCP) pour la validation technique",
+        "Outils de test API (Postman) et environnements sandbox",
+        "Plateformes de sécurité/conformité (Vanta, Drata, OneTrust) et questionnaires",
+        "Outils d’analyse ou de surveillance des produits",
+        "Bases de connaissances (Confluence, Notion) et battlecards",
+        "Outils de messagerie vidéo (Loom, Vidyard) pour des explications techniques asynchrones"
+      ],
+      "roadmap": [
+        {
+          "level": "Stagiaire Technique / Support",
+          "title": "Ingénieur Support Technique / Stagiaire Solutions",
+          "focus": "Développez vos connaissances sur les produits, vos compétences en communication et votre confiance envers les clients.",
+          "timeframe": "0-1 an"
+        },
+        {
+          "level": "Associé SE",
+          "title": "Ingénieur Commercial Associé / Consultant Solutions",
+          "focus": "Soutenir les SE seniors sur les démos, les appels d'offres et les appels de découverte technique",
+          "timeframe": "1-3 ans"
+        },
+        {
+          "level": "Ingénieur Commercial",
+          "title": "Ingénieur Commercial / Ingénieur Solutions",
+          "focus": "Posséder un cycle de vente technique pour les offres assignées et exécuter des démos/POC indépendants",
+          "timeframe": "2-5 ans"
+        },
+        {
+          "level": "SE senior",
+          "title": "Ingénieur commercial senior / Ingénieur solutions principal",
+          "focus": "Gérer les transactions d'entreprise, encadrer les SE juniors et diriger des évaluations complexes",
+          "timeframe": "4-8 ans"
+        },
+        {
+          "level": "SE Principal / Architecte",
+          "title": "Ingénieur Commercial Principal / Architecte de Solutions",
+          "focus": "Définir les meilleures pratiques, concevoir des solutions complexes et soutenir les comptes stratégiques",
+          "timeframe": "7-12 ans"
+        },
+        {
+          "level": "Direction SE",
+          "title": "Directeur de l'ingénierie des solutions / Vice-président des préventes",
+          "focus": "Faites évoluer l'équipe avant-vente, optimisez les processus et alignez la stratégie SE sur les objectifs de revenus",
+          "timeframe": "10-15 ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Chargé de comptes",
+          "description": "Rejoint les appels de découverte et de démonstration, élabore une stratégie de victoire technique et élimine les bloqueurs"
+        },
+        {
+          "role": "Chef de produit",
+          "description": "Fournit des commentaires sur le marché, soulève des demandes de fonctionnalités et s'aligne sur les messages de la feuille de route"
+        },
+        {
+          "role": "Ingénierie / Sécurité",
+          "description": "Escalader les questions d'architecture, d'intégration et de sécurité/conformité"
+        },
+        {
+          "role": "Succès client",
+          "description": "Ne touchez pas aux exigences techniques et au contexte d'évaluation pour une intégration fluide"
+        },
+        {
+          "role": "Commercialisation",
+          "description": "Contribue à la documentation technique, aux études de cas et aux cartes de bataille compétitives"
+        },
+        {
+          "role": "Responsable des partenariats",
+          "description": "Prend en charge les intégrations de partenaires, la co-vente et la validation des alliances techniques"
+        }
+      ],
+      "bestPractices": [
+        "Adaptez toujours les démos au cas d'utilisation spécifique du prospect et aux résultats commerciaux",
+        "Dirigez la découverte avant de démontrer pour éviter les conversations portant uniquement sur les fonctionnalités",
+        "Créez des modèles de preuve de concept et des plans d'évaluation réutilisables",
+        "Traduire les capacités techniques en valeur commerciale claire pour les acheteurs non techniques",
+        "Maintenir une boucle de rétroaction avec le produit et l'ingénierie sur les objections courantes",
+        "Maintenir les environnements de démonstration à jour et fiables pour éviter les manques de crédibilité",
+        "Documentez tout dans le CRM afin que les responsables de comptes et CS disposent d'un contexte complet"
+      ],
+      "resources": [
+        {
+          "title": "Apollo.io Comment devenir ingénieur commercial",
+          "description": "Guide pratique couvrant les compétences, la formation et une feuille de route de 12 mois pour les aspirants SE."
+        },
+        {
+          "title": "Coursera : Qu'est-ce qu'un ingénieur commercial ?",
+          "description": "Aperçu du rôle, des compétences et des qualifications pour les carrières technico-commerciales."
+        },
+        {
+          "title": "Collectif avant-vente",
+          "description": "Communauté mondiale pour les professionnels de l'avant-vente avec formations, événements et réseautage."
+        },
+        {
+          "title": "Certification de praticien du cloud AWS",
+          "description": "Certification cloud fondamentale utile pour les SE prenant en charge les solutions cloud ou SaaS."
+        },
+        {
+          "title": "Point de départ de Salesforce",
+          "description": "Plateforme gratuite pour apprendre l'architecture CRM, Sales Cloud et les bases de la conception de solutions."
+        },
+        {
+          "title": "La vente Challenger par Matthew Dixon et Brent Adamson",
+          "description": "Lecture essentielle sur la vente basée sur la connaissance et le contrôle des conversations clients complexes."
+        },
+        {
+          "title": "Académie MEDDIC",
+          "description": "Formation et certification officielles pour la qualification MEDDPICC dans les transactions d'entreprise."
+        }
+      ]
+    },
+    "marketing-communications-specialist": {
+      "title": "Spécialiste du marketing et des communications",
+      "shortTitle": "Spécialiste du marketing",
+      "summary": "Favorise la notoriété de la marque, la génération de la demande et l'engagement du public en créant et en distribuant du contenu convaincant sur les canaux numériques, sociaux et traditionnels tout en alignant les messages sur les objectifs commerciaux.",
+      "story": "Les spécialistes du marketing et des communications sont les conteurs qui façonnent la façon dont le monde perçoit Civitech Global. Vous développez des campagnes, rédigez du contenu, gérez les réseaux sociaux, planifiez des événements, prenez en charge le référencement et les médias payants et mesurez les performances afin que la prochaine campagne soit plus intelligente que la précédente. Vous êtes en partie stratège, en partie rédacteur, en partie analyste et en partie chef de projet.\n\nDès le début, vous exécutez des tâches, planifiez des publications, rédigez des e-mails et apprenez les mécanismes de gestion de campagne. Au fur et à mesure de votre croissance, vous possédez des chaînes, développez une stratégie de contenu et dirigez les lancements intégrés. Vous collaborez en étroite collaboration avec les ventes, les ingénieurs commerciaux, les partenariats, les produits, la conception et les opérations de revenus. Votre travail transforme les mises à jour de produits en récits, les preuves techniques en études de cas et la voix de la marque en une expérience cohérente sur chaque point de contact. Chez Civitech Global, le marketing n'est pas du bruit, c'est l'art de connecter les bonnes personnes avec la bonne valeur au bon moment.",
+      "responsibilities": [
+        "Développer et exécuter des campagnes de marketing et de communication intégrées",
+        "Rédiger et éditer du contenu pour les blogs, les réseaux sociaux, les e-mails, les communiqués de presse et les sites Web",
+        "Gérer la présence, la planification, l'engagement communautaire et les analyses sur les réseaux sociaux",
+        "Coordonner avec les ventes pour créer des supports d'habilitation tels que des études de cas et des cartes de bataille",
+        "Planifier et exécuter des événements, des webinaires, des salons professionnels et des lancements de produits",
+        "Surveillez la couverture médiatique, les mentions de marque et la réputation en ligne",
+        "Analyser les performances des campagnes à l'aide de l'analyse marketing et optimiser en fonction des données",
+        "Prise en charge des initiatives SEO/SEM, de marketing par e-mail et de médias payants",
+        "Maintenir la cohérence de la voix de la marque, des guides de style et des messages sur tous les canaux",
+        "Réaliser des études d'audience et de marché pour éclairer la stratégie de messagerie et de campagne"
+      ],
+      "skills": [
+        "Écriture, édition et narration",
+        "Stratégie de contenu et planification de campagne",
+        "Gestion des médias sociaux et engagement communautaire",
+        "SEO/SEM et analyse numérique",
+        "Marketing par e-mail et automatisation du marketing",
+        "Conception graphique et production multimédia de base",
+        "Gestion de projet et coordination transversale",
+        "Analyse des données et mesure des performances",
+        "Positionnement et message de marque",
+        "Communication de crise et gestion de la réputation"
+      ],
+      "tools": [
+        "HubSpot, Marketo ou Mailchimp pour l'automatisation du marketing et la messagerie électronique",
+        "Google Analytics 4 et Google Search Console pour l'analyse Web",
+        "Hootsuite, Buffer ou Later pour la gestion des médias sociaux",
+        "Canva, Adobe Creative Cloud ou Figma pour la conception et les ressources créatives",
+        "WordPress, Webflow ou Contentful pour la gestion de contenu",
+        "Salesforce ou HubSpot CRM pour le suivi et le transfert des leads",
+        "Slack, Asana ou Monday.com pour la coordination du projet",
+        "SEMrush, Ahrefs ou Moz pour le référencement et la recherche de mots clés",
+        "Cision, Meltwater ou Brandwatch pour la veille médiatique",
+        "Google Workspace ou Microsoft 365 pour la collaboration de contenu"
+      ],
+      "roadmap": [
+        {
+          "level": "Stagiaire / Coordinateur",
+          "title": "Coordonnatrice marketing / Stagiaire en communications",
+          "focus": "Exécutez des tâches, rédigez du contenu, planifiez des publications sur les réseaux sociaux et apprenez les mécanismes de campagne",
+          "timeframe": "0-1 an"
+        },
+        {
+          "level": "Spécialiste",
+          "title": "Spécialiste du marketing et des communications",
+          "focus": "Exécution de votre propre canal, création de contenu et mesure des performances de la campagne",
+          "timeframe": "1-3 ans"
+        },
+        {
+          "level": "Spécialiste senior",
+          "title": "Spécialiste marketing principal / Stratège de contenu",
+          "focus": "Diriger des campagnes, développer une stratégie et encadrer les membres juniors de l'équipe",
+          "timeframe": "3-5 ans"
+        },
+        {
+          "level": "Directeur",
+          "title": "Responsable de la communication marketing / Responsable de campagne",
+          "focus": "Gérer les budgets, les équipes et l'exécution des campagnes interfonctionnelles",
+          "timeframe": "5-8 ans"
+        },
+        {
+          "level": "Directeur",
+          "title": "Directeur du Marketing / Directeur de la Communication",
+          "focus": "Définir la stratégie de marque et GTM, superviser plusieurs canaux et conseiller la direction",
+          "timeframe": "8-12 ans"
+        },
+        {
+          "level": "Exécutif",
+          "title": "Vice-président marketing / Directeur marketing",
+          "focus": "Posséder une vision marketing globale, un alignement des revenus et une croissance organisationnelle",
+          "timeframe": "12+ ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Chargée de comptes / Responsable des ventes",
+          "description": "Fournit du contenu d'aide à la vente, partage des informations sur les prospects et s'aligne sur le suivi de la campagne"
+        },
+        {
+          "role": "Ingénieur Commercial",
+          "description": "Transforme les démonstrations techniques et les points de preuve en documents et études de cas destinés aux clients."
+        },
+        {
+          "role": "Responsable Canaux et Partenariats",
+          "description": "Développe des campagnes co-marquées, du matériel d'habilitation des partenaires et des événements conjoints"
+        },
+        {
+          "role": "Chef de produit",
+          "description": "Apprend les détails de la feuille de route et transforme les mises à jour du produit en messages de lancement"
+        },
+        {
+          "role": "Conception/Création",
+          "description": "Produit des visuels, des vidéos et des actifs de marque pour les campagnes et le contenu"
+        },
+        {
+          "role": "Opérations de revenus",
+          "description": "Suit le flux de leads, l'attribution, les mesures de l'entonnoir et le retour sur investissement de la campagne"
+        }
+      ],
+      "bestPractices": [
+        "Documentez un calendrier de contenu clair et un briefing de campagne avant l'exécution",
+        "Maintenir une voix et un message de marque cohérents sur tous les canaux",
+        "Utilisez les données pour prioriser les canaux et optimiser les dépenses en fonction des performances",
+        "Réutilisez le contenu hautement performant dans plusieurs formats pour maximiser la portée",
+        "Alignez les objectifs marketing directement avec le pipeline de ventes et les objectifs de revenus",
+        "Testez les lignes d'objet, les créations et les CTA en continu pour améliorer l'engagement",
+        "Créez une boucle de rétroaction avec les ventes pour affiner les messages et améliorer la qualité des prospects"
+      ],
+      "resources": [
+        {
+          "title": "Certification de marketing entrant de la HubSpot Academy",
+          "description": "Certification gratuite couvrant la méthodologie inbound, la stratégie de contenu et le lead nurturing."
+        },
+        {
+          "title": "Certification Google Analytics",
+          "description": "Formation et examen gratuits pour prouver la maîtrise de Google Analytics 4 et de la mesure numérique."
+        },
+        {
+          "title": "Institut de marketing de contenu",
+          "description": "Ressource principale pour la stratégie de marketing de contenu, la recherche et les meilleures pratiques."
+        },
+        {
+          "title": "Académie SEMrush",
+          "description": "Cours gratuits sur le référencement, le marketing de contenu, le PPC et l'analyse des médias sociaux."
+        },
+        {
+          "title": "Blogueur de copie",
+          "description": "Ressource de longue date pour la rédaction de contenu, la rédaction et la formation en marketing de contenu."
+        },
+        {
+          "title": "Association américaine de marketing (AMA)",
+          "description": "Association professionnelle de marketing avec formation, certifications et recherche industrielle."
+        },
+        {
+          "title": "Profs de marketing",
+          "description": "Formation et communauté pour les spécialistes du marketing B2B à la recherche de compétences pratiques et de modèles."
+        }
+      ]
+    },
+    "channel-partnerships-manager": {
+      "title": "Responsable Canaux et Partenariats",
+      "shortTitle": "Responsable des partenariats",
+      "summary": "Crée et développe des canaux de revenus indirects en identifiant, recrutant, habilitant et gérant des partenaires stratégiques, des revendeurs et des alliances qui étendent la portée du marché et génèrent des revenus provenant des partenaires.",
+      "story": "Les responsables des canaux et des partenariats construisent l'écosystème qui multiplie la portée de Civitech Global. Vous identifiez et recrutez des partenaires, négociez des accords, concevez des programmes d'habilitation, menez des campagnes de co-marketing et de co-vente et suivez les revenus provenant des partenaires. Votre travail relève en partie du développement commercial, en partie de la diplomatie et en partie de la conception de programmes.\n\nLorsque vous démarrez, vous soutenez les opérations des partenaires et l’intégration. Au fur et à mesure de votre croissance, vous possédez des portefeuilles de partenaires, gérez des alliances stratégiques et, éventuellement, définissez la stratégie mondiale des partenaires. Vous travaillez avec les ventes, le marketing, les ingénieurs commerciaux, les produits, les services juridiques, les finances et la réussite des clients. Les meilleurs gestionnaires de partenariats créent des incitations gagnant-gagnant, se protègent contre les conflits de canaux et investissent dans l'habilitation avant de s'attendre à un pipeline. Vous aidez Civitech Global à se développer non seulement en vendant directement, mais en construisant un réseau d'alliés qui étendent notre impact.",
+      "responsibilities": [
+        "Identifier, évaluer et recruter des partenaires qui s'alignent sur la stratégie de l'entreprise et l'ICP",
+        "Négocier des accords de partenariat, des conditions, des structures d'incitation et des cadres de co-vente",
+        "Développer et exécuter des programmes d'habilitation des partenaires, des formations et des certifications",
+        "Créer des campagnes de co-marketing et de co-vente avec des partenaires pour générer un pipeline",
+        "Surveillez les performances des partenaires grâce à des KPI, des tableaux de bord et des examens commerciaux réguliers",
+        "Entretenir les relations avec les partenaires grâce à une communication régulière et à un alignement de la direction",
+        "Résoudre les conflits de canaux et aligner les activités des partenaires sur les mouvements de vente directe",
+        "Collaborer avec les ventes, le marketing et les produits pour soutenir les opportunités dirigées par les partenaires",
+        "Gérer les portails partenaires, les outils PRM et les processus d'enregistrement des transactions",
+        "Fournir des informations sur le marché et la concurrence pour éclairer l'écosystème et la stratégie GTM"
+      ],
+      "skills": [
+        "Établissement de relations stratégiques et réseautage",
+        "Négociation et gestion des contrats",
+        "Développement commercial et recrutement de partenaires",
+        "Conception du programme et habilitation des partenaires",
+        "Analyse des données et mesure des performances",
+        "Collaboration interfonctionnelle et gestion des parties prenantes",
+        "Résolution des conflits et diplomatie",
+        "Analyse de marché et réflexion écosystémique",
+        "Gestion de projet et priorisation",
+        "Intelligence culturelle et présence exécutive"
+      ],
+      "tools": [
+        "Plateformes de gestion des relations partenaires (PRM) comme PartnerStack, Impartner ou Kiflo",
+        "CRM (Salesforce, HubSpot) pour le suivi des opportunités provenant des partenaires",
+        "Slack ou Microsoft Teams pour la collaboration avec les partenaires et en interne",
+        "LinkedIn et LinkedIn Sales Navigator pour la recherche et la sensibilisation des partenaires",
+        "Asana, Monday.com ou Notion pour la gestion de programmes et de projets",
+        "Outils d'analyse et tableaux de bord BI pour les rapports sur les performances des partenaires",
+        "Plateformes LMS pour la formation et la certification des partenaires",
+        "Automatisation du marketing (HubSpot, Marketo) pour les campagnes de co-marketing",
+        "Systèmes d’enregistrement des transactions et de suivi des références",
+        "Vidéoconférence (Zoom, Google Meet) pour l'intégration des partenaires et les QBR"
+      ],
+      "roadmap": [
+        {
+          "level": "Coordonnateur / Associé",
+          "title": "Coordonnateur des partenariats / Associé partenaire",
+          "focus": "Soutenir les opérations des partenaires, maintenir les bases de données et aider à l'intégration",
+          "timeframe": "0-1 an"
+        },
+        {
+          "level": "Responsable partenaires",
+          "title": "Responsable Channel / Partenariats",
+          "focus": "Posséder un portefeuille de partenaires, recruter de nouveaux partenaires et gérer le pipeline",
+          "timeframe": "1-4 ans"
+        },
+        {
+          "level": "Gestionnaire des partenaires principaux",
+          "title": "Responsable Partenariats Senior / Responsable Alliances Stratégiques",
+          "focus": "Gérez les comptes stratégiques, les transactions complexes et les alliances à forte valeur ajoutée",
+          "timeframe": "3-6 ans"
+        },
+        {
+          "level": "Chef d'équipe / Directeur",
+          "title": "Directeur des Partenariats / Directeur des Ventes Channel",
+          "focus": "Construire la stratégie de partenariat, l'équipe et les processus pour faire évoluer le canal",
+          "timeframe": "6-10 ans"
+        },
+        {
+          "level": "Vice-président/exécutif",
+          "title": "Vice-président des partenariats stratégiques / Directeur des partenariats",
+          "focus": "Posséder l'écosystème mondial de partenaires et l'aligner sur la stratégie et les revenus de l'entreprise",
+          "timeframe": "10-15 ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Chargée de comptes / Responsable des ventes",
+          "description": "Coordonne les transactions avec les partenaires, la co-vente et la cartographie des comptes"
+        },
+        {
+          "role": "Spécialiste du marketing et des communications",
+          "description": "Développe des campagnes co-marquées, des garanties de partenaires et des événements conjoints"
+        },
+        {
+          "role": "Ingénieur Commercial",
+          "description": "Permet aux partenaires techniquement et prend en charge les évaluations complexes dirigées par les partenaires"
+        },
+        {
+          "role": "Chef de produit",
+          "description": "S'aligne sur les feuilles de route d'intégration, l'adéquation des produits des partenaires et les solutions communes"
+        },
+        {
+          "role": "Juridique / Finance",
+          "description": "Négocie les contrats, les conditions d'incitation et les structures de paiement des partenaires"
+        },
+        {
+          "role": "Succès client",
+          "description": "Garantit que les clients référencés par des partenaires bénéficient d'une intégration et d'une assistance fluides"
+        }
+      ],
+      "bestPractices": [
+        "Définir des niveaux de partenaires, des attentes et des KPI clairs dès le premier jour",
+        "Investissez dans l’habilitation et la certification des partenaires avant de vous attendre à un pipeline",
+        "Communiquez régulièrement via des QBR, des newsletters et des mises à jour de Slack/portail",
+        "Protégez-vous contre les conflits de canaux grâce à des règles transparentes d’enregistrement des transactions",
+        "Concentrez-vous sur un petit nombre de partenaires de haute qualité avant de vous développer à grande échelle",
+        "Suivre rigoureusement les revenus provenant et influencés par les partenaires",
+        "Créez des incitations gagnant-gagnant qui alignent la réussite des partenaires sur la croissance de l'entreprise"
+      ],
+      "resources": [
+        {
+          "title": "Ressources et guides PartnerStack",
+          "description": "Guides pratiques, rapports et playbooks pour créer des programmes de partenariat SaaS."
+        },
+        {
+          "title": "Parcours de carrière du responsable des partenariats TealHQ",
+          "description": "Aperçu détaillé des responsabilités, des compétences et de l'évolution de carrière des responsables de partenariats."
+        },
+        {
+          "title": "Traverse",
+          "description": "Plateforme d'écosystème de partenaires pour la cartographie des comptes et la co-vente avec des partenaires."
+        },
+        {
+          "title": "Certification des ventes entrantes de la HubSpot Academy",
+          "description": "Certification gratuite utile pour comprendre la co-vente des partenaires et l'engagement des acheteurs."
+        },
+        {
+          "title": "Académie MEDDIC",
+          "description": "Formation de qualification commerciale qui aide les responsables partenaires à inspecter et à prendre en charge les transactions complexes."
+        },
+        {
+          "title": "RévGenius",
+          "description": "Communauté de revenus avec des canaux actifs pour les partenariats, les ventes de canaux et GTM."
+        },
+        {
+          "title": "PartnerStack : état des partenariats dans le rapport GTM",
+          "description": "Rapports de recherche sur les tendances des partenariats, les références et la croissance des écosystèmes."
+        }
+      ]
+    },
+    "project-manager-technical-program-manager": {
+      "title": "Chef de projet / Responsable de programme technique",
+      "shortTitle": "PM/TPM",
+      "summary": "Les responsables de programmes techniques orchestrent des initiatives techniques complexes et interfonctionnelles en combinant une maîtrise technique approfondie avec une supervision stratégique de la gestion des programmes, garantissant ainsi que les équipes d'ingénierie fournissent des solutions conformes aux objectifs, aux calendriers et aux budgets de l'entreprise.",
+      "story": "Les chefs de projet et les responsables de programmes techniques sont les orchestrateurs qui maintiennent sur la bonne voie les initiatives les plus ambitieuses de Civitech Global. Vous définissez les objectifs et les critères de réussite du programme, établissez des calendriers et des budgets, coordonnez l'ingénierie, les produits, la conception, les opérations et les fournisseurs, et suivez sans relâche les dépendances et les risques. Votre communication est adaptée au public, détaillée avec les équipes, concise avec les dirigeants.\n\nEn commençant en tant que coordinateur ou associé TPM, vous apprenez les rythmes de l'entreprise, prenez en charge la planification et possédez de petits flux de travail. Au fil du temps, vous dirigez des programmes à impact moyen puis élevé, influencez la stratégie technique et produit, encadrez vos pairs et, finalement, façonnez la fonction TPM elle-même. Vous travaillez en partenariat avec des ingénieurs logiciels, des chefs de produit, des responsables de l'ingénierie, des responsables de l'assurance qualité, de l'ingénierie des versions, des parties prenantes dirigeantes et des fournisseurs externes. Votre super pouvoir est de rendre la complexité gérable et de protéger les équipes afin qu’elles puissent se concentrer sur ce qu’elles font le mieux.",
+      "responsibilities": [
+        "Définir les objectifs, la portée et les critères de réussite du programme en collaboration avec les principales parties prenantes et la direction des produits.",
+        "Élaborer et maintenir des calendriers de programme, des feuilles de route et des budgets complets pour maintenir la livraison sur la bonne voie.",
+        "Coordonner la communication entre l’ingénierie, les produits, la conception, les opérations, les fournisseurs et les sponsors exécutifs.",
+        "Identifiez, suivez et résolvez les dépendances entre les équipes et les risques du chemin critique avant qu’ils ne bloquent la livraison.",
+        "Favoriser la résolution des problèmes techniques et opérationnels en travaillant directement avec les équipes d’ingénierie et les experts en la matière.",
+        "Surveiller et rendre compte de l’état du programme, des jalons et des mesures aux dirigeants et aux parties prenantes.",
+        "Mettre en œuvre et améliorer continuellement les méthodologies de gestion de programme Agile, Scrum, Kanban ou hybrides.",
+        "Veiller à ce que les normes de qualité, de sécurité, de conformité et de gouvernance soient respectées dans tous les livrables du programme.",
+        "Facilitez les analyses post-mortem et les rétrospectives pour capturer les leçons apprises et améliorer l’exécution future.",
+        "Encadrez les gestionnaires de programmes juniors et créez des playbooks de livraison reproductibles pour l'organisation."
+      ],
+      "skills": [
+        "Pensée systémique et connaissances en architecture technique",
+        "Gestion de programme et de projet (prédictif, Agile, hybride)",
+        "Feuille de route technique et planification stratégique",
+        "Cycle de vie du développement logiciel (SDLC) et pratiques CI/CD",
+        "Plateformes cloud et fondamentaux DevOps",
+        "Gestion des risques et analyse des dépendances",
+        "Gestion des parties prenantes et communication avec la direction",
+        "Prise de décision et mesures de performance basées sur les données",
+        "Influence sans autorité et résolution de conflits",
+        "Budgétisation, allocation des ressources et gestion des fournisseurs"
+      ],
+      "tools": [
+        "Jira / Azure DevOps / Suivi linéaire du backlog, des sprints et des versions",
+        "Calendrier et planification de portefeuille Microsoft Project / Smartsheet / Asana ΓÇô",
+        "Confluence / Notion ΓÇô documentation et gestion des connaissances",
+        "Slack / Microsoft Teams ΓÇô communication en temps réel entre les équipes et les parties prenantes",
+        "Référentiels de code GitHub / GitLab ΓÇô, demandes d'extraction et coordination des versions",
+        "Rapports, présentations et collaboration Google Workspace / Office 365 ΓÇô",
+        "Cartographie des processus, diagrammes d'architecture et ateliers Miro / Lucidchart ΓÇô",
+        "Tableau / Power BI / feuilles de calcul ΓÇô tableaux de bord, KPI et rapports d'état"
+      ],
+      "roadmap": [
+        {
+          "level": "Stagiaire / Coordinateur",
+          "title": "Stagiaire en gestion de programme technique ou coordonnateur de projet",
+          "focus": "Apprenez les processus de l'entreprise, prenez en charge la planification et le suivi de l'état, documentez les notes de réunion et aidez à la coordination de petits flux de travail.",
+          "timeframe": "0ΓÇô1 an"
+        },
+        {
+          "level": "Junior / Associé",
+          "title": "Gestionnaire de programme technique associé",
+          "focus": "Possédez des composants de projet bien définis, gérez les tâches et les délais pour une seule équipe et familiarisez-vous avec les cérémonies et les outils Agile.",
+          "timeframe": "1ΓÇô3 ans"
+        },
+        {
+          "level": "Professionnel",
+          "title": "Responsable du programme technique",
+          "focus": "Dirigez des programmes de complexité moyenne de bout en bout, coordonnez les dépendances interfonctionnelles, gérez les risques et obtenez des résultats de livraison prévisibles.",
+          "timeframe": "3ΓÇô6 ans"
+        },
+        {
+          "level": "Senior",
+          "title": "Gestionnaire principal du programme technique",
+          "focus": "Posséder des programmes ambigus et à fort impact ; influencer la stratégie technique et produit ; encadrer les TPM juniors ; et optimiser les processus de livraison organisationnels.",
+          "timeframe": "6ΓÇô10 ans"
+        },
+        {
+          "level": "Directeur / Responsable",
+          "title": "Responsable principal ou responsable principal du programme technique",
+          "focus": "Piloter les initiatives pluriannuelles les plus complexes ; définir des normes et des playbooks TPM ; agir en tant que visage d’une unité commerciale ou d’un grand domaine.",
+          "timeframe": "10ΓÇô15 ans"
+        },
+        {
+          "level": "Exécutif",
+          "title": "Directeur / Vice-président de la gestion des programmes techniques",
+          "focus": "Créez et dirigez la fonction TPM, alignez le portefeuille de programmes sur la stratégie de l'entreprise, gérez les budgets à grande échelle et façonnez la culture d'ingénierie.",
+          "timeframe": "15+ ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Ingénieurs logiciels",
+          "description": "Clarifiez les exigences, débloquez les dépendances techniques, examinez la progression du sprint et alignez les délais de livraison sur la réalité de la mise en œuvre."
+        },
+        {
+          "role": "Chefs de produits",
+          "description": "Traduisez les priorités de la feuille de route en plans exécutables, négociez la portée et les compromis, et assurez-vous que les versions répondent aux objectifs des clients et de l'entreprise."
+        },
+        {
+          "role": "Responsables d'ingénierie/responsables techniques",
+          "description": "Alignez-vous sur la capacité de l’équipe, la dette technique, les besoins de recrutement et les décisions architecturales qui affectent la portée et le calendrier du programme."
+        },
+        {
+          "role": "Assurance qualité et ingénierie des versions",
+          "description": "Coordonnez les plans de test, les fenêtres de publication, la préparation au déploiement et les procédures de restauration pour garantir des lancements stables."
+        },
+        {
+          "role": "Parties prenantes exécutives",
+          "description": "Fournissez des mises à jour concises de l’état, faites remonter les risques et les décisions et obtenez un parrainage pour les initiatives stratégiques."
+        },
+        {
+          "role": "Fournisseurs et partenaires externes",
+          "description": "Gérez les contrats, les intégrations, les livrables et les délais pour les services tiers ou les composants externalisés."
+        }
+      ],
+      "bestPractices": [
+        "Démarrez chaque programme avec une portée clairement définie, des critères de réussite et une matrice RACI pour éviter toute ambiguïté.",
+        "Maintenez une source unique de vérité pour les calendriers, les risques et les décisions, visible par toutes les parties prenantes.",
+        "Effectuez régulièrement des examens des risques et des dépendances plutôt que d’attendre que les problèmes s’aggravent.",
+        "Communiquez tôt et souvent en utilisant le niveau de détail approprié pour chaque public.",
+        "Équilibrez agilité et gouvernance en adaptant les méthodologies à l’incertitude et à l’échelle du programme.",
+        "Utilisez des rétrospectives et des post-mortems pour institutionnaliser les leçons apprises et l’amélioration continue.",
+        "Protégez la concentration de l’équipe en protégeant les ingénieurs des réunions inutiles et des changements de contexte."
+      ],
+      "resources": [
+        {
+          "title": "Guide PMBOK (corps de connaissances en gestion de projet)",
+          "description": "La norme fondamentale de PMI pour les processus, la terminologie et les meilleures pratiques de gestion de projet."
+        },
+        {
+          "title": "Certification professionnelle en gestion de projet (PMP)",
+          "description": "Certification mondialement reconnue validant l'expérience et les compétences dans la direction de projets."
+        },
+        {
+          "title": "ScrumMaster certifié (CSM)",
+          "description": "Certification Scrum Alliance pour animer des équipes Agile et des cérémonies Scrum."
+        },
+        {
+          "title": "Certificat de gestion de projet Google",
+          "description": "Certificat professionnel Coursera couvrant Agile, Scrum, la gestion des parties prenantes et l'exécution de projets réels."
+        },
+        {
+          "title": "Livre : Le mois-homme mythique de Fred Brooks",
+          "description": "Essais classiques sur l'estimation de projets logiciels, la mise à l'échelle des équipes et les frais généraux de communication."
+        },
+        {
+          "title": "Livre : Scrum : L'art de faire deux fois plus de travail en deux fois moins de temps par Jeff Sutherland",
+          "description": "Introduction pratique au framework Scrum par l'un de ses co-créateurs."
+        },
+        {
+          "title": "Communauté et ressources PMI.org",
+          "description": "Organisme industriel proposant des normes, des certifications, des recherches, des modèles et des événements de section locale."
+        }
+      ]
+    },
+    "technical-team-leader": {
+      "title": "Chef d'équipe technique",
+      "shortTitle": "Responsable technique",
+      "summary": "Les chefs d'équipe technique guident les équipes d'ingénierie en combinant une profondeur technique pratique avec le leadership des personnes, en s'appropriant les décisions en matière d'architecture et de qualité du code tout en encadrant les ingénieurs et en alignant la livraison sur les objectifs du produit et de l'entreprise.",
+      "story": "Les chefs d’équipe technique sont les ingénieurs qui élèvent tout le monde autour d’eux. Vous dirigez les décisions de conception technique et d'architecture, encadrez les ingénieurs à travers des révisions de code et des conversations de carrière, vous êtes propre aux résultats de livraison, définissez des normes d'ingénierie et équilibrez le codage pratique avec le leadership des personnes. Vous êtes à la fois une autorité technique et un porteur de culture.\n\nDès le début, vous développez des bases d'ingénierie approfondies et fournissez des fonctionnalités de manière indépendante. Au fur et à mesure que vous évoluez vers des postes de direction et de direction, vous influencez l'architecture, guidez la réponse aux incidents, recrutez et intégrez des talents et représentez votre équipe dans des conversations interfonctionnelles. Vous travaillez en étroite collaboration avec des ingénieurs logiciels, des chefs de produit, des responsables de l'ingénierie, des concepteurs TPM, QA et UX. Les meilleurs techniciens montrent l'exemple, en restant proches du code, en créant une sécurité psychologique, en documentant les décisions et en déléguant la propriété afin que l'équipe se renforce à chaque version.",
+      "responsibilities": [
+        "Diriger les décisions en matière de conception technique, d'architecture et de qualité du code pour le domaine de l'équipe.",
+        "Encadrez, coachez et développez les ingénieurs grâce à des révisions de code, de la programmation en binôme et des conversations de carrière.",
+        "Propre résultats de livraison en décomposant le travail, en estimant l'effort et en pilotant l'exécution de sprints ou d'itérations.",
+        "Définir et appliquer des normes d'ingénierie pour les tests, l'observabilité, la sécurité et la documentation.",
+        "Collaborer avec les chefs de produits pour affiner les exigences et négocier les compromis techniques.",
+        "Identifiez, priorisez et remboursez la dette technique tout en équilibrant la fourniture de nouvelles fonctionnalités.",
+        "Facilitez les rituels d’équipe tels que les stand-ups, la planification, les rétrospectives et les revues d’architecture.",
+        "Recrutez, intégrez et fidélisez les ingénieurs talentueux pour constituer des équipes performantes.",
+        "Résoudre les problèmes de production et guider la réponse aux incidents et les améliorations post-incident.",
+        "Représenter l'équipe dans des discussions interfonctionnelles et communiquer les concepts techniques aux parties prenantes non techniques."
+      ],
+      "skills": [
+        "Conception de systèmes et architecture logicielle",
+        "Solide maîtrise de la programmation et de la révision de code",
+        "CI/CD, DevOps et pratiques de publication modernes",
+        "Gestion des personnes, mentorat et coaching",
+        "Méthodologies Agile / Scrum / Kanban",
+        "Communication et gestion des parties prenantes",
+        "Résolution des conflits et prise de décision dans l’incertitude",
+        "Priorisation de la feuille de route et gestion technique de la dette",
+        "Observabilité, fiabilité et gestion des incidents",
+        "Intelligence émotionnelle et construction d’une culture d’équipe"
+      ],
+      "tools": [
+        "Contrôle de version GitHub / GitLab ΓÇô, révision de code et pipelines CI/CD",
+        "Jira / Azure DevOps / Linear ΓÇô suivi des tâches et gestion des sprints",
+        "Confluence / Notion / Wiki ΓÇô documentation technique et runbooks",
+        "Slack / Microsoft Teams ΓÇô communication d'équipe et coordination des incidents",
+        "IDE (VS Code, JetBrains, etc.) ΓÇô développement et débogage quotidiens",
+        "Jenkins / GitHub Actions / CircleCI ΓÇô automatisation de la construction, des tests et du déploiement",
+        "Services d'infrastructure et de plateforme cloud AWS / Azure / GCP ΓÇô",
+        "Surveillance, journalisation et alerte Datadog / Prometheus / Grafana ΓÇô"
+      ],
+      "roadmap": [
+        {
+          "level": "Stagiaire / Junior",
+          "title": "Stagiaire en génie logiciel ou développeur junior",
+          "focus": "Développez les bases du codage, apprenez la pile technologique, contribuez à de petites fonctionnalités et absorbez les conventions et les commentaires de l'équipe.",
+          "timeframe": "0ΓÇô1 an"
+        },
+        {
+          "level": "Ingénieur logiciel",
+          "title": "Ingénieur logiciel",
+          "focus": "Proposez des fonctionnalités de manière indépendante, rédigez des tests, participez aux révisions de code et développez une expertise du domaine.",
+          "timeframe": "1ΓÇô3 ans"
+        },
+        {
+          "level": "Ingénieur principal",
+          "title": "Ingénieur logiciel senior",
+          "focus": "Résolvez des problèmes techniques complexes, encadrez des ingénieurs juniors, influencez les décisions de conception et dirigez de petits projets de bout en bout.",
+          "timeframe": "3ΓÇô6 ans"
+        },
+        {
+          "level": "Responsable technique",
+          "title": "Chef d'équipe technique / Ingénieur principal",
+          "focus": "Guidez l’architecture et la livraison de l’équipe, équilibrez le codage pratique avec le leadership des personnes et agissez en tant qu’autorité technique pour le domaine.",
+          "timeframe": "6ΓÇô10 ans"
+        },
+        {
+          "level": "Personnel / Directeur ou Responsable Ingénierie",
+          "title": "Ingénieur d'état-major / Ingénieur principal ou responsable de l'ingénierie",
+          "focus": "Pilotez une stratégie technique à l’échelle de l’organisation, dirigez des initiatives à grande échelle ou gérez plusieurs équipes et responsables d’ingénierie.",
+          "timeframe": "10ΓÇô15 ans"
+        },
+        {
+          "level": "Distingué / Exécutif",
+          "title": "Ingénieur distingué/directeur ou vice-président de l'ingénierie",
+          "focus": "Façonnez la vision technologique à l’échelle de l’entreprise, dirigez l’ingénierie à grande échelle, stimulez l’innovation et influencez la stratégie au niveau de la direction.",
+          "timeframe": "15+ ans"
+        }
+      ],
+      "dailyInteractions": [
+        {
+          "role": "Ingénieurs logiciels",
+          "description": "Associez-vous à des tâches complexes, révisez le code, débloquez les problèmes techniques et fournissez des commentaires axés sur la croissance."
+        },
+        {
+          "role": "Chefs de produits",
+          "description": "Affinez les exigences, clarifiez la faisabilité, négociez la portée et assurez-vous que la feuille de route est techniquement réalisable."
+        },
+        {
+          "role": "Responsables de l'ingénierie",
+          "description": "Partagez les responsabilités de gestion du personnel, alignez-vous sur l’embauche, les promotions, la santé de l’équipe et la planification des capacités à long terme."
+        },
+        {
+          "role": "Gestionnaires de programmes techniques / chefs de projets",
+          "description": "Coordonnez les délais de livraison, les dépendances, les risques et les engagements inter-équipes entre les programmes."
+        },
+        {
+          "role": "Ingénieurs assurance qualité",
+          "description": "Définissez des stratégies de test, examinez la couverture des tests et alignez-vous sur les critères de qualité et la préparation à la publication."
+        },
+        {
+          "role": "UX / Concepteurs de produits",
+          "description": "Traduisez les conceptions en solutions réalisables, discutez de la faisabilité des interactions et répétez les compromis en matière d'expérience utilisateur."
+        }
+      ],
+      "bestPractices": [
+        "Montrez l’exemple : restez proche du code, révisez-le régulièrement et démontrez les normes de qualité que vous attendez.",
+        "Créez une sécurité psychologique afin que les membres de l’équipe puissent faire part de leurs préoccupations, admettre leurs erreurs et remettre en question les idées de manière constructive.",
+        "Appliquer une culture de révision du code rigoureuse mais pragmatique axée sur l’apprentissage et la propriété partagée.",
+        "Équilibrez la fourniture de fonctionnalités avec un investissement continu dans la qualité, l’observabilité et la réduction de la dette technique.",
+        "Fournissez des commentaires opportuns, spécifiques et exploitables lors de révisions individuelles et de révisions de code.",
+        "Documentez les décisions d'architecture (ADR), les runbooks et les guides d'intégration pour réduire les connaissances tribales.",
+        "Déléguez la propriété et la prise de décision pour développer les ingénieurs tout en restant disponible comme voie d'escalade."
+      ],
+      "resources": [
+        {
+          "title": "Livre : Le parcours du manager de Camille Fournier",
+          "description": "Guide pratique du parcours ingénierie-leadership, du responsable technique à la haute direction."
+        },
+        {
+          "title": "Livre : Un puzzle élégant par Will Larson",
+          "description": "Essais de gestion des systèmes d'ingénierie sur la mise à l'échelle des équipes, la culture et la conception organisationnelle."
+        },
+        {
+          "title": "Livre : Ingénieur d'état-major par Will Larson",
+          "description": "Guide sur les rôles de leadership technique au-delà de la filière de gestion, y compris les archétypes de responsable technique et d'ingénieur du personnel."
+        },
+        {
+          "title": "Scrum Master Professionnel (PSM I)",
+          "description": "Certification Scrum.org pour comprendre et appliquer les principes Scrum en tant que chef d'équipe ou Scrum Master."
+        },
+        {
+          "title": "Communauté et conférences LeadDev",
+          "description": "Communauté, articles et événements axés sur le leadership en ingénierie, la santé des équipes et la gestion technique."
+        },
+        {
+          "title": "Coursera : spécialisation en gestion de projets d'ingénierie (Université Rice)",
+          "description": "Spécialisation couvrant le lancement de projet, la planification, les risques, le contrôle des changements et Agile pour les leaders techniques."
+        },
+        {
+          "title": "Livre : Le mois-homme mythique de Fred Brooks",
+          "description": "Lecture essentielle sur les complexités des équipes logicielles, de la communication et de l'estimation."
+        }
+      ]
+    }
+  },
+  "openCall": {
+    "headline": "Appel ouvert",
+    "title": "Temps partiel | Contributeurs bénévoles",
+    "organization": "Rayan Tamaddon Jahan Gostar (CiviTech Global)",
+    "mission": "Développer des solutions logicielles créatives et innovantes pour aider et faciliter la civilisation.",
+    "note": "Nous aimons aussi les jeux.",
+    "whatIs": {
+      "title": "Quelle est cette opportunité",
+      "paragraphs": [
+        "Nous ouvrons des candidatures aux personnes qui souhaitent acquérir une expérience pratique en contribuant à de vrais produits logiciels et en voyant comment les idées deviennent des solutions utilisées dans la pratique. Il s'agit d'une opportunité de bénévolat à temps partiel conçue pour les contributeurs ayant des intérêts, des forces et des antécédents différents afin de participer à différentes étapes de création et de croissance de produits.",
+        "Les contributeurs collaboreront sur des initiatives réelles et seront jumelés à des activités en fonction de leurs intérêts, de leurs capacités et des priorités du projet."
+      ],
+      "exposure": [
+        "Comment les produits logiciels sont créés et améliorés",
+        "Collaboration interfonctionnelle et workflows de livraison",
+        "Cycles d'exécution et d'itération dans le monde réel",
+        "Lancement de produit et évolution continue",
+        "Environnements de produits orientés marché"
+      ]
+    },
+    "important": {
+      "title": "Important",
+      "note": "Il s'agit d'une opportunité volontaire et non rémunérée."
+    },
+    "purpose": {
+      "title": "Objectif de cette initiative",
+      "items": [
+        "Construire une expérience de travail officielle",
+        "Renforcez les portefeuilles avec un travail significatif",
+        "Développer des compétences pratiques et collaboratives",
+        "Découvrez comment les produits évoluent du concept à l'utilisation réelle"
+      ]
+    },
+    "whoShouldApply": {
+      "title": "Qui devrait postuler",
+      "description": "Des personnes curieuses, proactives, collaboratives et enthousiastes à l'idée d'apprendre en construisant."
+    },
+    "commitment": {
+      "title": "Engagement",
+      "items": [
+        "Participation à temps partiel",
+        "Coordination flexible",
+        "Compatible à distance le cas échéant"
+      ]
+    },
+    "application": {
+      "title": "Pour postuler",
+      "instructions": "Veuillez inclure votre profil ou CV LinkedIn, une brève introduction, vos intérêts et objectifs, ainsi qu'un portfolio facultatif ou un travail antérieur.",
+      "applyButtonText": "Postulez avec ce formulaire",
+      "scheduleButtonText": "Programmer un appel de 30ΓÇô45 min"
+    },
+    "closing": {
+      "tagline": "Construire. Apprendre. Contribuer. Grandir.",
+      "signature": "Cordialement, Rayan Tamaddon Jahan Gostar (CiviTech Global)"
+    }
+  },
+  "gitWorkflow": {
+    "title": "Git Workflow Guide",
+    "subtitle": "Comment nous collaborons sur le code chez Civitech Global : fork, branche, commit, push et fusionne de la bonne manière.",
+    "repository": {
+      "title": "Forkez ou clonez le référentiel",
+      "external": {
+        "title": "Pour les contributeurs externes",
+        "description": "Forkez le dépôt sur GitHub, puis clonez votre propre copie et ajoutez la télécommande en amont.",
+        "code": "# 1. Fork the repo on GitHub, then clone your fork\ngit clone https://github.com/YOUR_USERNAME/members-workflows-guidelines.git\ncd members-workflows-guidelines\n\n# 2. Add the original repo as \"upstream\"\ngit remote add upstream https://github.com/civitechglobal/members-workflows-guidelines.git\ngit remote -v"
+      },
+      "team": {
+        "title": "Pour les membres de l'équipe",
+        "description": "Clonez directement le dépôt de l’organisation. Vous créerez des branches et y ouvrirez des Pull Requests.",
+        "code": "git clone https://github.com/civitechglobal/members-workflows-guidelines.git\ncd members-workflows-guidelines\n\n# Verify the remote\ngit remote -v"
+      }
+    },
+    "steps": [
+      {
+        "title": "Créer une succursale",
+        "description": "Ne travaillez jamais directement sur le réseau principal. Démarrez une branche ciblée à partir du dernier main.",
+        "code": "git checkout main\ngit pull origin main\ngit checkout -b feature/123-add-login-page"
+      },
+      {
+        "title": "Prendre des engagements",
+        "description": "Apportez de petits changements logiques avec des messages clairs qui expliquent pourquoi, pas seulement quoi.",
+        "code": "git add .\ngit commit -m \"feat(auth): add login form with email validation\""
+      },
+      {
+        "title": "Poussez la branche",
+        "description": "Poussez votre branche vers la télécommande pour que les autres puissent la voir et que CI puisse s'exécuter.",
+        "code": "git push -u origin feature/123-add-login-page"
+      },
+      {
+        "title": "Ouvrir une demande de tirage",
+        "description": "Décrivez ce qui a changé, pourquoi et comment le tester. Demandez un examen aux bonnes personnes.",
+        "code": "# Open the PR on GitHub and fill the template."
+      },
+      {
+        "title": "Fusionner après examen",
+        "description": "Fusionnez uniquement lorsque les approbations sont reçues, les contrôles réussis et les conflits résolus.",
+        "code": "# Use the GitHub \"Merge pull request\" button, then delete the branch."
+      }
+    ],
+    "branchNaming": {
+      "title": "Conventions de dénomination des branches",
+      "description": "Un nom de branche clair indique à tout le monde de quoi il s’agit et rend l’historique facile à lire. Utilisez le modèle : type/issue-id-short-description.",
+      "pattern": "type/numéro-de-problème-description-brève",
+      "types": [
+        {
+          "prefix": "fonctionnalité/",
+          "example": "fonctionnalité/42-mode sombre",
+          "use": "Nouvelle fonctionnalité ou amélioration"
+        },
+        {
+          "prefix": "correction de bug/",
+          "example": "bugfix/42-fix-nav-scroll",
+          "use": "Corrections de bugs non critiques"
+        },
+        {
+          "prefix": "correctif/",
+          "example": "correctif/42-patch-paiement",
+          "use": "Correctifs de production critiques"
+        },
+        {
+          "prefix": "documents/",
+          "example": "docs/42-readme-update",
+          "use": "Documentation uniquement"
+        },
+        {
+          "prefix": "refactoriser/",
+          "example": "refactor/42-simplify-api",
+          "use": "Nettoyage du code sans changement de comportement"
+        },
+        {
+          "prefix": "corvée/",
+          "example": "corvée/42-update-deps",
+          "use": "Maintenance, outillage, dépendances"
+        }
+      ]
+    },
+    "commitMessages": {
+      "title": "Valider les messages",
+      "description": "Nous suivons une version simplifiée de Conventional Commits.",
+      "format": "type(portée) : brève description à l'impératif\n\nExplication plus longue facultative de quoi et pourquoi.\n\nFerme #123",
+      "types": [
+        {
+          "type": "exploit",
+          "desc": "Une nouvelle fonctionnalité"
+        },
+        {
+          "type": "réparer",
+          "desc": "Une correction de bug"
+        },
+        {
+          "type": "documents",
+          "desc": "Modifications de la documentation"
+        },
+        {
+          "type": "style",
+          "desc": "Formatage, points-virgules manquants, etc."
+        },
+        {
+          "type": "refactoriser",
+          "desc": "Changement de code qui ne corrige pas de bug ni n'ajoute de fonctionnalité"
+        },
+        {
+          "type": "performance",
+          "desc": "Amélioration des performances"
+        },
+        {
+          "type": "test",
+          "desc": "Ajouter ou corriger des tests"
+        },
+        {
+          "type": "corvée",
+          "desc": "Modifications du processus de construction ou des outils auxiliaires"
+        }
+      ]
+    },
+    "pullRequestEtiquette": {
+      "title": "Étiquette des demandes de tirage",
+      "items": [
+        "Donnez au PR un titre clair qui correspond à l'objectif de la branche.",
+        "Expliquez ce qui a changé et pourquoi dans la description.",
+        "Ajoutez des captures d'écran ou des GIF pour les modifications de l'interface utilisateur.",
+        "Problèmes liés au lien : \"Ferme #123\".",
+        "Gardez la différence petite et concentrée ; les grands changements sont difficiles à évaluer.",
+        "Assurez-vous que les contrôles CI réussissent avant de demander un examen.",
+        "Attribuez au moins un réviseur avant de fusionner.",
+        "Attendez au moins une approbation avant de fusionner.",
+        "Ne fusionnez jamais votre propre Pull Request.",
+        "Utilisez \"Squash et merge\" ou une fusion régulière en fonction des règles du projet."
+      ]
+    },
+    "stayingUpToDate": {
+      "title": "Garder votre succursale à jour",
+      "directClone": {
+        "description": "Si vous avez cloné directement le dépôt d'origine :",
+        "code": "git checkout main\ngit pull origin main\ngit checkout feature/123-add-login-page\ngit merge main"
+      },
+      "forkedClone": {
+        "description": "Si vous avez forké le dépôt :",
+        "code": "git checkout main\ngit pull upstream main\ngit push origin main\ngit checkout feature/123-add-login-page\ngit merge main"
+      }
+    },
+    "bestPractices": {
+      "title": "Meilleures pratiques",
+      "items": [
+        "Ne vous engagez jamais directement dans main.",
+        "Gardez les branches concentrées sur une tâche ou une fonctionnalité.",
+        "Tirez régulièrement sur main dans votre branche pour éviter des conflits de fusion géants.",
+        "Écrivez les messages de validation à l'impératif : \"Ajouter une connexion\" et non \"Connexion ajoutée\".",
+        "Ouvrez les Pull Requests alors qu’elles sont encore petites et révisables.",
+        "Reliez toujours les PR à des problèmes ou à des tickets lorsque cela est possible.",
+        "Supprimez les branches après la fusion pour garder le dépôt propre.",
+        "Exécutez des vérifications locales (lint, typecheck, build) avant de pousser lorsqu'elles sont disponibles.",
+        "Attribuez au moins un réviseur à chaque Pull Request.",
+        "Attendez au moins une approbation avant de fusionner.",
+        "Ne fusionnez jamais votre propre Pull Request."
+      ]
+    },
+    "quickReference": {
+      "title": "Référence rapide",
+      "code": "# Start work\ngit checkout main && git pull origin main\ngit checkout -b feature/123-short-name\n\n# Save progress\ngit add .\ngit commit -m \"feat(scope): description\"\n\n# Share your branch\ngit push -u origin feature/123-short-name\n\n# Update your branch with latest main\ngit checkout main && git pull origin main\ngit checkout feature/123-short-name\ngit merge main\n\n# Clean up after merge\ngit branch -d feature/123-short-name\ngit push origin --delete feature/123-short-name"
+    }
+  }
+}

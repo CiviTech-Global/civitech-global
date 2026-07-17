@@ -1,11 +1,11 @@
-import { openCall } from '../data/siteData'
+import { useSiteData } from '../data/siteData'
 import { ScrollReveal } from '../components/fx/ScrollReveal'
 import { GlassCard } from '../components/fx/GlassCard'
 import { RippleButton } from '../components/fx/RippleButton'
 import { AlertTriangle, Calendar, Send } from 'lucide-react'
 
 export function OpenCall() {
-  const oc = openCall
+  const { openCall: oc } = useSiteData()
 
   return (
     <div className="px-6 pb-24 pt-32">

@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import { Link, useParams, Navigate } from 'react-router-dom'
-import { getTeamById, getRolesByTeam } from '../data/siteData'
+import { useSiteData, getTeamById, getRolesByTeam } from '../data/siteData'
 import { ScrollReveal, StaggerContainer, StaggerItem } from '../components/fx/ScrollReveal'
 import { GlassCard } from '../components/fx/GlassCard'
 import { ArrowLeft, ArrowRight, Lightbulb, Code2, ShieldCheck, TrendingUp, Users } from 'lucide-react'
@@ -16,13 +16,14 @@ const iconMap: Record<string, React.ComponentType<{ size?: number; className?: s
 
 export function Team() {
   const { t } = useTranslation()
+  const { teams, roles } = useSiteData()
   const { teamId } = useParams<{ teamId: string }>()
-  const team = teamId ? getTeamById(teamId) : undefined
+  const team = teamId ? getTeamById(teamId, teams) : undefined
 
   if (!team) return <Navigate to="/teams" replace />
 
   const Icon = iconMap[team.iconName] ?? Users
-  const teamRoles = getRolesByTeam(team.id)
+  const teamRoles = getRolesByTeam(team.id, roles)
 
   return (
     <div className="px-6 pb-24 pt-32">

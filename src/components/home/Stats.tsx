@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useInView } from 'framer-motion'
-import { teams, roles } from '../../data/siteData'
+import { useSiteData } from '../../data/siteData'
 import { useReducedMotion } from '../../hooks/useReducedMotion'
 
 function AnimatedNumber({ value, suffix = '' }: { value: number; suffix?: string }) {
@@ -40,6 +40,7 @@ function AnimatedNumber({ value, suffix = '' }: { value: number; suffix?: string
 
 export function Stats() {
   const { t } = useTranslation()
+  const { teams, roles } = useSiteData()
 
   const items = [
     { value: teams.length, label: t('home.stats.teams') },

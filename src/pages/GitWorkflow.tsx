@@ -1,11 +1,13 @@
 import { useState } from 'react'
-import { gitWorkflow } from '../data/siteData'
+import { useTranslation } from 'react-i18next'
+import { useSiteData } from '../data/siteData'
 import { ScrollReveal } from '../components/fx/ScrollReveal'
 import { GlassCard } from '../components/fx/GlassCard'
 import { RippleButton } from '../components/fx/RippleButton'
 import { Check, Copy, GitBranch } from 'lucide-react'
 
 function CodeBlock({ code }: { code: string }) {
+  const { t } = useTranslation()
   const [copied, setCopied] = useState(false)
 
   const handleCopy = () => {
@@ -17,13 +19,13 @@ function CodeBlock({ code }: { code: string }) {
   return (
     <div className="relative overflow-hidden rounded-xl bg-slate-950 text-slate-100">
       <div className="flex items-center justify-between border-b border-slate-800 px-4 py-2">
-        <span className="text-xs text-slate-400">bash</span>
+        <span className="text-xs text-slate-400">{t('common.bash')}</span>
         <RippleButton
           onClick={handleCopy}
           className="flex items-center gap-1 rounded-md px-2 py-1 text-xs text-slate-300 hover:bg-slate-800"
         >
           {copied ? <Check size={12} /> : <Copy size={12} />}
-          {copied ? 'Copied' : 'Copy'}
+          {copied ? t('common.copied') : t('common.copy')}
         </RippleButton>
       </div>
       <pre className="overflow-x-auto p-4 text-sm leading-relaxed">
@@ -34,7 +36,7 @@ function CodeBlock({ code }: { code: string }) {
 }
 
 export function GitWorkflow() {
-  const gw = gitWorkflow
+  const { gitWorkflow: gw } = useSiteData()
 
   return (
     <div className="px-6 pb-24 pt-32">
@@ -67,7 +69,7 @@ export function GitWorkflow() {
           </ScrollReveal>
 
           <ScrollReveal>
-            <h2 className="mb-4 text-2xl font-semibold text-[var(--text)]">The Standard Workflow</h2>
+            <h2 className="mb-4 text-2xl font-semibold text-[var(--text)]">{gw.standardWorkflowTitle}</h2>
             <div className="grid gap-4 md:grid-cols-2">
               {gw.steps.map((step, i) => (
                 <GlassCard key={i}>

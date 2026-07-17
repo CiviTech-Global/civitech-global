@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import { Link, useParams, Navigate } from 'react-router-dom'
-import { getRoleBySlug, getTeamById, getAdjacentRole } from '../data/siteData'
+import { useSiteData, getRoleBySlug, getTeamById, getAdjacentRole } from '../data/siteData'
 import { ScrollReveal } from '../components/fx/ScrollReveal'
 import { GlassCard } from '../components/fx/GlassCard'
 import { MagneticLink } from '../components/fx/MagneticButton'
@@ -9,13 +9,14 @@ import { cn, getTeamColor } from '../lib/utils'
 
 export function Role() {
   const { t } = useTranslation()
+  const { teams, roles } = useSiteData()
   const { roleSlug } = useParams<{ roleSlug: string }>()
-  const role = roleSlug ? getRoleBySlug(roleSlug) : undefined
+  const role = roleSlug ? getRoleBySlug(roleSlug, roles) : undefined
 
   if (!role) return <Navigate to="/roles" replace />
 
-  const team = getTeamById(role.teamId)
-  const { prev, next } = getAdjacentRole(role)
+  const team = getTeamById(role.teamId, teams)
+  const { prev, next } = getAdjacentRole(role, roles)
 
   return (
     <div className="px-6 pb-24 pt-32">

@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
-import { teams, getRoleCountForTeam } from '../data/siteData'
+import { useSiteData, getRoleCountForTeam } from '../data/siteData'
 import { StaggerContainer, StaggerItem } from '../components/fx/ScrollReveal'
 import { SectionHeading } from '../components/fx/SectionHeading'
 import { GlassCard } from '../components/fx/GlassCard'
@@ -17,6 +17,7 @@ const iconMap: Record<string, React.ComponentType<{ size?: number; className?: s
 
 export function Teams() {
   const { t } = useTranslation()
+  const { teams, roles } = useSiteData()
 
   return (
     <div className="px-6 pb-24 pt-32">
@@ -59,7 +60,7 @@ export function Teams() {
                     </p>
                     <div className="mt-4">
                       <span className="inline-block rounded-full bg-[var(--bg-soft)] px-3 py-1 text-xs font-medium text-[var(--text-muted)]">
-                        {t('teams.rolesCount', { count: getRoleCountForTeam(team.id) })}
+                        {t('teams.rolesCount', { count: getRoleCountForTeam(team.id, roles) })}
                       </span>
                     </div>
                   </GlassCard>

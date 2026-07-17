@@ -2,7 +2,7 @@ import { useState, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
-import { roles, teams } from '../data/siteData'
+import { useSiteData } from '../data/siteData'
 import { ScrollReveal } from '../components/fx/ScrollReveal'
 import { SectionHeading } from '../components/fx/SectionHeading'
 import { GlassCard } from '../components/fx/GlassCard'
@@ -11,6 +11,7 @@ import { cn, getTeamColor } from '../lib/utils'
 
 export function Roles() {
   const { t } = useTranslation()
+  const { roles, teams } = useSiteData()
   const [query, setQuery] = useState('')
   const [teamFilter, setTeamFilter] = useState('all')
 
@@ -34,7 +35,7 @@ export function Roles() {
       const matchesTeam = teamFilter === 'all' || role.teamId === teamFilter
       return matchesQuery && matchesTeam
     })
-  }, [query, teamFilter])
+  }, [query, teamFilter, roles, teams])
 
   return (
     <div className="px-6 pb-24 pt-32">
